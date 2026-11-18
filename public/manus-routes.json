@@ -5,6 +5,13 @@
     {"path":"/docs","title":"NewtCBT Documentation"},
     {"path":"/privacy","title":"NewtCBT Privacy Policy"},
     {"path":"/terms","title":"NewtCBT Terms of Service"},
-    {"path":"/cbt","title":"NewtCBT Custom Mock Builder"}
+    {"path":"/dashboard","title":"NewtCBT Dashboard"},
+    {"path":"/builder","title":"Build a Custom Test"},
+    {"path":"/test","title":"CBT Practice Test"},
+    {"path":"/analysis","title":"Test Analytics"},
+    {"path":"/live","title":"Live Test Rooms"},
+    {"path":"/library","title":"Public Test Library"},
+    {"path":"/notebook","title":"Study Notebook"},
+    {"path":"/settings","title":"Workspace Settings"}
   ]
 }
