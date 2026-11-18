@@ -1,15 +1,11 @@
 # TODO
 
-- [x] Recreate the dark responsive landing page with NewtCBT brand navigation, split hero, copy, and auth card placeholder.
-- [x] Add feature cards, community testimonials, and interface preview imagery.
-- [x] Add public About, Documentation, Privacy, and Terms routes.
-- [x] Add dashboard with activity stats, recent tests, study bars, and quick actions.
-- [x] Add custom test builder with subject, chapter, difficulty, count, question type, and PDF selection UI.
-- [x] Add CBT test-taking interface with timer presentation, question palette, answer selection, navigation, and scoring presentation.
-- [x] Add analytics screen with scorecard, accuracy, time, score potential, percentile, subject breakdown, and recommendation.
-- [x] Add public test library with search, filters, and attempt actions.
-- [x] Add live-room creation/join simulation, local notebook, settings, toast feedback, and route manifest.
-- [ ] Connect authentication after backend decisions are made.
-- [ ] Connect AI PDF extraction and question selection after backend/API decisions are made.
-- [ ] Design and connect database tables for users, tests, questions, attempts, analytics, rooms, and library records.
-- [ ] Replace simulated live rooms with a real-time backend.
+- [x] Recreate the dark responsive NewtCBT public shell.
+- [x] Add dashboard, builder, local PDF selection, test interface, analytics, library, live-room simulation, notebook, and settings flows.
+- [x] Copy the complete CBT Converter frontend bundle into `public/cbtconverter`.
+- [x] Expose the bundle at `/cbt` and `/cbt/mains` to match the supplied mobile reference screen.
+- [x] Copy the locally available curated question banks, JEE Hub papers, and Aspiron PYQ data into `public/data`.
+- [x] Add `public/data/manifest.json` documenting dataset paths, counts, provenance boundary, and the later import point for an authorized larger export.
+- [ ] Connect authentication and backend persistence after the database decision.
+- [ ] Import the complete authorized 300K+ question export if the developer provides the source dump or API export.
+- [ ] Connect backend question selection, shared attempts, analytics persistence, and live-room synchronization.

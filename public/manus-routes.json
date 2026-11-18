@@ -5,6 +5,8 @@
     {"path":"/docs","title":"NewtCBT Documentation"},
     {"path":"/privacy","title":"NewtCBT Privacy Policy"},
     {"path":"/terms","title":"NewtCBT Terms of Service"},
+    {"path":"/cbt","title":"JEE Mains Custom CBT"},
+    {"path":"/cbt/mains","title":"JEE Mains Custom CBT"},
     {"path":"/dashboard","title":"NewtCBT Dashboard"},
     {"path":"/builder","title":"Build a Custom Test"},
     {"path":"/test","title":"CBT Practice Test"},

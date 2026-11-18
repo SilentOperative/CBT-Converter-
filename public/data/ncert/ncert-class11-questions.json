@@ -1,0 +1,1534 @@
+[
+  {
+    "chapter": "The Living World",
+    "chapterNumber": 1,
+    "questions": [
+      {
+        "number": 1,
+        "text": "Why are living organisms classified?",
+        "answer": "Classification groups organisms by shared characters, making their study, identification and comparison systematic and helping us understand their relationships and diversity."
+      },
+      {
+        "number": 2,
+        "text": "Why are the classification systems changing every now and then?",
+        "answer": "New evidence from morphology, anatomy, cell structure, development, genetics and molecular biology changes our understanding of relationships. Classification is revised to reflect more accurate evolutionary relationships."
+      },
+      {
+        "number": 3,
+        "text": "What different criteria would you choose to classify people that you meet often?",
+        "answer": "People may be grouped by age, occupation, language, place of residence, education, habits or other observable and clearly defined features. The chosen criteria should be consistent and useful for the purpose."
+      },
+      {
+        "number": 4,
+        "text": "What do we learn from identification of individuals and populations?",
+        "answer": "Identification establishes the correct identity of an organism or population. It helps communicate information accurately, recognise similarities and differences, study distribution and conserve biodiversity."
+      },
+      {
+        "number": 5,
+        "text": "Given below is the scientific name of Mango. Identify the correctly written name. Mangifera Indica Mangifera indica",
+        "answer": "The correct form is *Mangifera indica*. The generic name begins with a capital letter and the specific epithet with a lowercase letter; both are italicised in print (or separately underlined when handwritten)."
+      },
+      {
+        "number": 6,
+        "text": "Define a taxon. Give some examples of taxa at different hierarchical levels.",
+        "answer": "A taxon is a unit of classification at any rank. Examples include species *Homo sapiens*, genus *Homo*, family Hominidae, order Primates, class Mammalia and kingdom Animalia."
+      },
+      {
+        "number": 7,
+        "text": "Can you identify the correct sequence of taxonomical categories? (a) Species Order Phylum Kingdom (b) Genus Species Order Kingdom (c) Species Genus Order Phylum",
+        "answer": "Correct sequence: (c) Species → Genus → Order → Phylum. The complete ascending hierarchy is species → genus → family → order → class → phylum/division → kingdom."
+      },
+      {
+        "number": 8,
+        "text": "Try to collect all the currently accepted meanings for the word ‘species’. Discuss with your teacher the meaning of species in case of higher plants and animals on one hand, and bacteria on the other hand.",
+        "answer": "Species is commonly treated as the basic unit of classification. In sexually reproducing animals, the biological species concept describes natural populations that interbreed and are reproductively isolated from other such populations. In plants, hybridisation and asexual reproduction can complicate this definition, so morphology and other evidence are also used. Bacteria reproduce asexually and exchange genes, so species are recognised using a combination of genetic, biochemical, ecological and phenotypic characteristics rather than interbreeding."
+      },
+      {
+        "number": 9,
+        "text": "Define and understand the following terms: (i) Phylum (ii) Class (iii) Family (iv) Order (v) Genus",
+        "answer": "(i) Phylum: a category above class and below kingdom, grouping related classes (e.g. Chordata). (ii) Class: a category above order and below phylum (e.g. Mammalia). (iii) Family: a category above genus and below order (e.g. Felidae). (iv) Order: a category above family and below class (e.g. Carnivora). (v) Genus: a category above species, containing closely related species (e.g. *Panthera*)."
+      },
+      {
+        "number": 10,
+        "text": "How is a key helpful in the identification and classification of an organism?",
+        "answer": "A taxonomic key identifies organisms through a sequence of paired, contrasting statements called couplets. At each step, the matching character leads to the next choice until the organism is identified."
+      },
+      {
+        "number": 11,
+        "text": "Illustrate the taxonomical hierarchy with suitable examples of a plant and an animal.",
+        "answer": "Plant example: Kingdom Plantae → Division Angiospermae → Class Dicotyledonae → Order Solanales → Family Solanaceae → Genus *Solanum* → Species *Solanum tuberosum*. Animal example: Kingdom Animalia → Phylum Chordata → Class Mammalia → Order Primates → Family Hominidae → Genus *Homo* → Species *Homo sapiens*."
+      }
+    ]
+  },
+  {
+    "chapter": "Biological Classification",
+    "chapterNumber": 2,
+    "questions": [
+      {
+        "number": 1,
+        "text": "Discuss how classification systems have undergone several changes over a period of time?",
+        "answer": "Classification progressed from two kingdoms (Plantae and Animalia) to systems recognising microorganisms and cellular organisation. Haeckel proposed three kingdoms, Copeland four, and Whittaker five (Monera, Protista, Fungi, Plantae and Animalia). Modern systems also use molecular and evolutionary evidence."
+      },
+      {
+        "number": 2,
+        "text": "State two economically important uses of: (a) heterotrophic bacteria (b) archaebacteria",
+        "answer": "(a) Heterotrophic bacteria: used in curd/cheese production and antibiotic manufacture; decomposers also recycle nutrients. (b) Archaebacteria: methanogens produce methane in biogas plants and occur in the rumen of cattle, helping digestion of cellulose-rich food."
+      },
+      {
+        "number": 3,
+        "text": "What is the nature of cell-walls in diatoms?",
+        "answer": "Diatom cell walls are made of silica and form two overlapping halves (like a soap box). Their indestructible walls accumulate as diatomaceous earth."
+      },
+      {
+        "number": 4,
+        "text": "Find out what do the terms ‘algal bloom’ and ‘red-tides’ signify.",
+        "answer": "An algal bloom is a rapid increase of algae in nutrient-rich water, often causing oxygen depletion and harm to aquatic life. Red tides are blooms of red-pigmented marine dinoflagellates that discolour water and may release toxins."
+      },
+      {
+        "number": 5,
+        "text": "How are viroids different from viruses?",
+        "answer": "Viroids are much smaller than viruses and consist only of short, circular single-stranded RNA without a protein coat. Viruses contain genetic material (DNA or RNA) enclosed in a protein coat and may also have an envelope."
+      },
+      {
+        "number": 6,
+        "text": "Describe briefly the four major groups of Protozoa.",
+        "answer": "(i) Amoeboid protozoans move and capture food with pseudopodia (e.g. *Amoeba*). (ii) Flagellated protozoans move by flagella; some are parasitic (e.g. *Trypanosoma*). (iii) Ciliated protozoans use cilia for movement and feeding (e.g. *Paramecium*). (iv) Sporozoans form infectious spore-like stages and are generally parasitic (e.g. *Plasmodium*)."
+      },
+      {
+        "number": 7,
+        "text": "Plants are autotrophic. Can you think of some plants that are partially heterotrophic?",
+        "answer": "Yes. Insectivorous plants such as *Nepenthes* (pitcher plant), *Drosera* (sundew), *Utricularia* (bladderwort) and *Dionaea* (Venus flytrap) photosynthesise but obtain some nitrogen and minerals by digesting insects."
+      },
+      {
+        "number": 8,
+        "text": "What do the terms phycobiont and mycobiont signify?",
+        "answer": "In a lichen, the phycobiont is the photosynthetic partner (alga or cyanobacterium) and the mycobiont is the fungal partner."
+      },
+      {
+        "number": 9,
+        "text": "Give a comparative account of the classes of Kingdom Fungi under the following: (i) mode of nutrition (ii) mode of reproduction",
+        "answer": "Phycomycetes: saprophytic or parasitic; asexual reproduction by zoospores or aplanospores in sporangia and sexual reproduction by fusion of gametes. Ascomycetes: saprophytic, parasitic or coprophilous; asexual conidia and sexual ascospores formed inside asci, usually in ascocarps. Basidiomycetes: mainly decomposers or parasites; asexual spores generally absent, sexual basidiospores formed externally on basidia in basidiocarps. Deuteromycetes: called fungi imperfecti because only asexual/vegetative stages are known; reproduce by conidia and include many decomposers and pathogens."
+      },
+      {
+        "number": 10,
+        "text": "What are the characteristic features of Euglenoids?",
+        "answer": "Euglenoids are mostly freshwater flagellates. They lack a cell wall and have a flexible protein-rich pellicle; two flagella (one short and one long) are usually present. They photosynthesise in sunlight but can behave heterotrophically in its absence. Their pigments resemble those of higher plants."
+      },
+      {
+        "number": 11,
+        "text": "Give a brief account of viruses with respect to their structure and nature of genetic material. Also name four common viral diseases.",
+        "answer": "Viruses are acellular, obligate intracellular parasites. A nucleic-acid core contains either DNA or RNA (never both as the genome), surrounded by a protein coat called a capsid made of capsomeres; some have an envelope. Examples of viral diseases include common cold, influenza, dengue and AIDS."
+      },
+      {
+        "number": 12,
+        "text": "Organise a discussion in your class on the topic – Are viruses living or non- living? PLANT KINGDOM 29",
+        "answer": "Viruses show both living and non-living characteristics. Outside a host cell they are inert, can be crystallised and have no independent metabolism. Inside a living host cell they replicate and show heredity and variation. Therefore, they occupy a borderline position between living and non-living matter."
+      }
+    ]
+  },
+  {
+    "chapter": "Plant Kingdom",
+    "chapterNumber": 3,
+    "questions": [
+      {
+        "number": 1,
+        "text": "What is the basis of classification of algae?",
+        "answer": "Algae are classified mainly by photosynthetic pigments, stored food, cell-wall composition and number/type of flagella."
+      },
+      {
+        "number": 2,
+        "text": "When and where does reduction division take place in the life cycle of a liverwort, a moss, a fern, a gymnosperm and an angiosperm?",
+        "answer": "Reduction division (meiosis) occurs in the spore mother cells of the sporophyte: in liverworts and mosses, in the capsule/sporangium; in ferns, in sporangia on sporophylls; in gymnosperms, in microsporangia and megasporangia; in angiosperms, in anthers and ovules (microspore and megaspore mother cells)."
+      },
+      {
+        "number": 3,
+        "text": "Name three groups of plants that bear archegonia. Briefly describe the life cycle of any one of them.",
+        "answer": "Archegonia occur in bryophytes, pteridophytes and gymnosperms. In a fern, the dominant sporophyte produces spores by meiosis in sporangia. Spores germinate into a small, independent, photosynthetic prothallus (gametophyte), which bears antheridia and archegonia. Water enables sperm to reach the egg; fertilisation forms a zygote that develops into a new sporophyte."
+      },
+      {
+        "number": 4,
+        "text": "Mention the ploidy of the following: protonemal cell of a moss; primary endosperm nucleus in dicot, leaf cell of a moss; prothallus cell of a ferm; gemma cell in Marchantia; meristem cell of monocot, ovum of a liverwort, and zygote of a fern.",
+        "answer": "Protonemal cell of moss: haploid (n); primary endosperm nucleus of a typical dicot: triploid (3n); leaf cell of moss: haploid (n); fern prothallus cell: haploid (n); gemma cell in Marchantia: haploid (n); monocot meristem cell: diploid (2n); ovum of liverwort: haploid (n); fern zygote: diploid (2n)."
+      },
+      {
+        "number": 5,
+        "text": "Write a note on economic importance of algae and gymnosperms.",
+        "answer": "Algae: used as food (e.g. *Porphyra*, *Laminaria*, *Sargassum*), produce agar (red algae such as *Gelidium* and *Gracilaria*), algin and carrageenan, and are important primary producers. Gymnosperms provide timber (e.g. *Pinus*), paper pulp, resins and turpentine; some yield edible seeds and medicines."
+      },
+      {
+        "number": 6,
+        "text": "Both gymnosperms and angiosperms bear seeds, then why are they classified separately?",
+        "answer": "Gymnosperms bear naked ovules/seeds on megasporophylls; their seeds are not enclosed in an ovary or fruit. Angiosperms have ovules enclosed within an ovary, which develops into a fruit after fertilisation. Angiosperms also have flowers and double fertilisation."
+      },
+      {
+        "number": 7,
+        "text": "What is heterospory? Briefly comment on its significance. Give two examples.",
+        "answer": "Heterospory is the production of two kinds of spores: small microspores (male gametophytes) and large megaspores (female gametophytes). It is an important evolutionary step towards the seed habit because the female gametophyte develops within the retained megaspore. Examples: *Selaginella* and *Salvinia*."
+      },
+      {
+        "number": 8,
+        "text": "Explain briefly the following terms with suitable examples:- (i) protonema (ii) antheridium (iii) archegonium (iv) diplontic (v) sporophyll (vi) isogamy",
+        "answer": "(i) Protonema: green, branched, filamentous juvenile stage of a moss gametophyte. (ii) Antheridium: male sex organ producing antherozoids. (iii) Archegonium: flask-shaped female sex organ containing an egg. (iv) Diplontic: life cycle in which the diploid sporophyte is dominant (e.g. *Fucus*). (v) Sporophyll: leaf-like structure bearing sporangia (e.g. fern sporophyll). (vi) Isogamy: fusion of morphologically similar gametes (e.g. some *Chlamydomonas*)."
+      },
+      {
+        "number": 9,
+        "text": "Differentiate between the following:- (i) red algae and brown algae (ii) liverworts and moss (iii) homosporous and heterosporous pteridophyte (iv) syngamy and triple fusion",
+        "answer": "(i) Red algae: phycoerythrin-rich, mostly marine, store floridean starch; brown algae: fucoxanthin-rich, mostly marine, store laminarin and mannitol. (ii) Liverworts: usually dorsiventral thalloid/leafy gametophytes; mosses: leafy gametophytes with protonema and leafy stage. (iii) Homosporous pteridophytes produce one spore type; heterosporous produce microspores and megaspores. (iv) Syngamy is fusion of male and female gametes; triple fusion is fusion of one male gamete with two polar nuclei/secondary nucleus to form the triploid primary endosperm nucleus."
+      },
+      {
+        "number": 10,
+        "text": "How would you distinguish monocots from dicots?",
+        "answer": "Monocots usually have one cotyledon, parallel leaf venation, fibrous/adventitious roots, scattered stem vascular bundles and floral parts in threes. Dicots usually have two cotyledons, reticulate venation, a taproot system, vascular bundles in a ring and floral parts in fours or fives."
+      },
+      {
+        "number": 11,
+        "text": "Match the following (column I with column II) Column I Column II (a) Chlamydomonas (i) Moss (b) Cycas (ii) Pteridophyte (c) Selaginella (iii) Algae (d) Sphagnum (iv) Gymnosperm",
+        "answer": "Matching: (a) Chlamydomonas – (iii) Algae; (b) Cycas – (iv) Gymnosperm; (c) Selaginella – (ii) Pteridophyte; (d) Sphagnum – (i) Moss."
+      },
+      {
+        "number": 12,
+        "text": "Describe the important characteristics of gymnosperms.",
+        "answer": "Gymnosperms are seed-producing plants with naked ovules and seeds. They are heterosporous; reproductive structures occur in cones/strobili; the sporophyte is dominant; gametophytes are highly reduced and dependent on the sporophyte; pollination usually occurs by wind; fertilisation does not require external water; xylem generally lacks vessels (except in Gnetales) and phloem lacks companion cells."
+      }
+    ]
+  },
+  {
+    "chapter": "Animal Kingdom",
+    "chapterNumber": 4,
+    "questions": [
+      {
+        "number": 1,
+        "text": "What are the difficulties that you would face in classification of animals, if common fundamental features are not taken into account?",
+        "answer": "Without common fundamental characters, classification would be arbitrary and organisms with very different body plans or evolutionary relationships could be grouped together. Identification, comparison and prediction of biological features would become unreliable."
+      },
+      {
+        "number": 2,
+        "text": "If you are given a specimen, what are the steps that you would follow to classify it?",
+        "answer": "Observe and record body symmetry, level of organisation, germ layers, body cavity, segmentation, notochord, appendages and other diagnostic characters. Compare these with taxonomic keys and standard descriptions, then assign the specimen to the appropriate phylum and lower taxa."
+      },
+      {
+        "number": 3,
+        "text": "How useful is the study of the nature of body cavity and coelom in the classification of animals?",
+        "answer": "Body cavity type is a major criterion: acoelomates lack a body cavity; pseudocoelomates have a cavity not fully lined by mesoderm; coelomates have a true coelom fully lined by mesoderm. These differences reflect body organisation and help distinguish major animal groups."
+      },
+      {
+        "number": 4,
+        "text": "Distinguish between intracellular and extracellular digestion?",
+        "answer": "Intracellular digestion occurs inside cells, usually in food vacuoles (e.g. sponges). Extracellular digestion occurs outside cells in a digestive cavity or tract, where enzymes break food down before absorption (e.g. humans)."
+      },
+      {
+        "number": 5,
+        "text": "What is the difference between direct and indirect development?",
+        "answer": "Direct development: young ones resemble small adults and no larval stage occurs. Indirect development: a larval stage occurs and transforms into the adult, often by metamorphosis."
+      },
+      {
+        "number": 6,
+        "text": "What are the peculiar features that you find in parasitic platyhelminthes?",
+        "answer": "Parasitic platyhelminths commonly have hooks and suckers for attachment, a thick protective tegument, reduced sense and locomotory organs, high reproductive capacity, and complex life cycles involving one or more hosts."
+      },
+      {
+        "number": 7,
+        "text": "What are the reasons that you can think of for the arthropods to constitute the largest group of the animal kingdom?",
+        "answer": "Arthropods are highly diverse and successful because of a protective chitinous exoskeleton, segmented body with specialised appendages, efficient locomotion, varied feeding habits, well-developed sensory organs, high reproductive capacity and the ability of many groups to fly."
+      },
+      {
+        "number": 8,
+        "text": "Water vascular system is the characteristic of which group of the following: (a) Porifera (b) Ctenophora (c) Echinodermata (d) Chordata",
+        "answer": "(c) Echinodermata."
+      },
+      {
+        "number": 9,
+        "text": "“All vertebrates are chordates but all chordates are not vertebrates”. Justify the statement.",
+        "answer": "Chordates possess a notochord, dorsal hollow nerve cord, pharyngeal gill slits and post-anal tail at least at some developmental stage. Vertebrates are chordates in which the notochord is replaced partly or wholly by a vertebral column and a cranium is present. Protochordates lack a vertebral column; hence all vertebrates are chordates, but not all chordates are vertebrates."
+      },
+      {
+        "number": 10,
+        "text": "How important is the presence of air bladder in Pisces?",
+        "answer": "The air bladder (swim bladder) helps many bony fishes maintain buoyancy at different depths without continuous swimming, conserving energy. It is absent in cartilaginous fishes."
+      },
+      {
+        "number": 11,
+        "text": "What are the modifications that are observed in birds that help them fly?",
+        "answer": "Birds have a streamlined body, forelimbs modified into wings, feathers, lightweight pneumatic bones, fused bones, powerful flight muscles attached to a keeled sternum, efficient lungs with air sacs and a high metabolic rate."
+      },
+      {
+        "number": 12,
+        "text": "Could the number of eggs or young ones produced by an oviparous and viviparous mother be equal? Why?",
+        "answer": "Yes, the numbers can be equal in principle, but usually differ. Oviparous animals often produce many eggs because fertilisation/development may occur externally and offspring mortality is high. Viviparous animals generally produce fewer young because embryos develop protected inside the mother and receive greater parental investment."
+      },
+      {
+        "number": 13,
+        "text": "Segmentation in the body is first observed in which of the following: (a) Platyhelminthes (b) Aschelminthes (c) Annelida (d) Arthropoda",
+        "answer": "(c) Annelida."
+      },
+      {
+        "number": 14,
+        "text": "Match the following: (a) Operculum (i) Ctenophora (b) Parapodia (ii) Mollusca (c) Scales (iii) Porifera (d) Comb plates (iv) Reptilia (e) Radula (v) Annelida (f ) Hairs (vi) Cyclostomata and Chondrichthyes (g) Choanocytes (vii) Mammalia (h) Gill slits (viii) Osteichthyes",
+        "answer": "(a) Operculum – (viii) Osteichthyes; (b) Parapodia – (v) Annelida; (c) Scales – (iv) Reptilia; (d) Comb plates – (i) Ctenophora; (e) Radula – (ii) Mollusca; (f) Hairs – (vii) Mammalia; (g) Choanocytes – (iii) Porifera; (h) Gill slits – (vi) Cyclostomata and Chondrichthyes."
+      },
+      {
+        "number": 15,
+        "text": "Prepare a list of some animals that are found parasitic on human beings.",
+        "answer": "Examples include tapeworm (*Taenia*), roundworm (*Ascaris*), pinworm (*Enterobius*), filarial worm (*Wuchereria*), hookworm (*Ancylostoma*) and liver fluke (*Fasciola*)."
+      }
+    ]
+  },
+  {
+    "chapter": "Morphology of Flowering Plants",
+    "chapterNumber": 5,
+    "questions": [
+      {
+        "number": 1,
+        "text": "What is meant by modification of root? What type of modification of root is found in the: (a) Banyan tree (b) Turnip (c) Mangrove trees",
+        "answer": "Root modification is a change in root form to perform additional functions. (a) Banyan: prop roots provide mechanical support. (b) Turnip: napiform storage taproot. (c) Mangroves: pneumatophores grow upward and aid gaseous exchange in waterlogged soil."
+      },
+      {
+        "number": 2,
+        "text": "Justify the following statements on the basis of external features: (i) Underground parts of a plant are not always roots. (ii) Flower is a modified shoot.",
+        "answer": "(i) Underground stems such as potato, ginger and onion bear nodes, internodes, scale leaves and buds, so they are stems, not roots. (ii) A flower develops from a floral bud and has a condensed axis (thalamus) bearing modified leaves—sepals, petals, stamens and carpels—so it is a modified shoot."
+      },
+      {
+        "number": 3,
+        "text": "How is a pinnately compound leaf different from a palmately compound leaf?",
+        "answer": "In a pinnately compound leaf, leaflets are arranged on both sides of a common rachis (e.g. neem). In a palmately compound leaf, leaflets arise from a common point at the tip of the petiole (e.g. silk cotton)."
+      },
+      {
+        "number": 4,
+        "text": "Explain with suitable examples the different types of phyllotaxy. MORPHOLOGY OF FLOWERING PLANTS 83",
+        "answer": "Phyllotaxy is leaf arrangement on the stem. Alternate: one leaf per node (China rose, mustard); opposite: two leaves per node (guava, Calotropis); whorled: more than two leaves per node (Alstonia)."
+      },
+      {
+        "number": 5,
+        "text": "Define the following terms: (a) aestivation (b) placentation (c) actinomorphic (d) zygomorphic (e) superior ovary (f) perigynous flower (g) epipetalous stamen",
+        "answer": "(a) Aestivation: arrangement of sepals/petals in a floral bud. (b) Placentation: arrangement of ovules in the ovary. (c) Actinomorphic: flower divisible into equal halves through multiple vertical planes. (d) Zygomorphic: divisible into two equal halves in only one vertical plane. (e) Superior ovary: ovary above the attachment of other floral whorls. (f) Perigynous: thalamus forms a cup around the ovary and other whorls arise from its rim. (g) Epipetalous: stamens attached to petals."
+      },
+      {
+        "number": 6,
+        "text": "Differentiate between (a) Racemose and cymose inflorescence (b) Fibrous root and adventitious root (c) Apocarpous and syncarpous ovary",
+        "answer": "(a) Racemose: main axis continues to grow; flowers are borne laterally in acropetal order. Cymose: main axis ends in a flower; flowers develop in basipetal order. (b) Fibrous roots arise as a cluster from the base of the stem; adventitious roots arise from parts other than the radicle. (c) Apocarpous: carpels free (e.g. lotus); syncarpous: carpels fused (e.g. tomato)."
+      },
+      {
+        "number": 7,
+        "text": "Draw the labelled diagram of the following: (i) gram seed (ii) V.S. of maize seed",
+        "answer": "Gram seed: label seed coat (testa/tegmen), two cotyledons, embryonal axis, plumule, epicotyl, hypocotyl and radicle. Maize grain (V.S.): label pericarp fused with seed coat, aleurone layer, endosperm, scutellum (single cotyledon), plumule enclosed by coleoptile and radicle enclosed by coleorhiza."
+      },
+      {
+        "number": 8,
+        "text": "Describe modifications of stem with suitable examples.",
+        "answer": "Stem modifications include underground storage/perennation (rhizome—ginger; tuber—potato; bulb—onion; corm—Colocasia), subaerial vegetative propagation (runner—grass; stolon—jasmine; sucker—mint; offset—Pistia) and aerial functions (stem tendrils—grape; thorns—Citrus; phylloclade—Opuntia; cladode—Asparagus)."
+      },
+      {
+        "number": 9,
+        "text": "Take one flower each of the families Fabaceae and Solanaceae and write its semi-technical description. Also draw their floral diagram after studying them.",
+        "answer": "Fabaceae example (pea): bisexual, zygomorphic, pentamerous, papilionaceous flower; calyx 5 united; corolla 1 standard + 2 wings + 2 fused keel petals; androecium usually diadelphous (9)+1; gynoecium monocarpellary, superior ovary, marginal placentation. Solanaceae example (Datura): bisexual, actinomorphic, pentamerous; calyx 5 united, corolla 5 united, stamens 5 epipetalous, gynoecium bicarpellary syncarpous with superior ovary and axile placentation. Draw floral diagrams showing these whorls in order."
+      },
+      {
+        "number": 10,
+        "text": "Describe the various types of placentations found in flowering plants.",
+        "answer": "Types: marginal (pea), axile (tomato, lemon), parietal (mustard), free-central (Dianthus), basal (sunflower) and superficial (water lily)."
+      },
+      {
+        "number": 11,
+        "text": "What is a flower? Describe the parts of a typical angiosperm flower.",
+        "answer": "A flower is the reproductive unit of an angiosperm. A typical flower has a pedicel and thalamus bearing four whorls: calyx (sepals), corolla (petals), androecium (stamens: filament and anther) and gynoecium (carpel: stigma, style and ovary containing ovules)."
+      },
+      {
+        "number": 12,
+        "text": "How do the various leaf modifications help plants?",
+        "answer": "Leaf modifications help in climbing (leaf tendrils of pea), protection (spines of cacti), storage (fleshy onion scales), photosynthesis (phyllodes of Acacia), insect capture (pitcher plant) and vegetative propagation (Bryophyllum leaf buds)."
+      },
+      {
+        "number": 13,
+        "text": "Define the term inflorescence. Explain the basis for the different types inflorescence in flowering plants.",
+        "answer": "Inflorescence is the arrangement of flowers on the floral axis. In racemose inflorescence the main axis continues growing and flowers are arranged acropetally; in cymose inflorescence the main axis terminates in a flower and flowering is basipetal/centrifugal."
+      },
+      {
+        "number": 14,
+        "text": "Write the floral formula of a actinomorphic, bisexual, hypogynous flower with five united sepals, five free petals, five free stamens and two united carples with superior ovary and axile placentation.",
+        "answer": "Floral formula: ⊕ ⚥ K(5) C5 A5 G(2) with a superior ovary (underline the G in conventional notation). Axile placentation is an ovary character and is not normally represented in the basic floral formula."
+      },
+      {
+        "number": 15,
+        "text": "Describe the arrangement of floral members in relation to their insertion on thalamus.",
+        "answer": "Based on insertion, flowers are hypogynous (other whorls below ovary; superior ovary), perigynous (whorls on rim of cup-shaped thalamus around ovary; half-inferior appearance) and epigynous (thalamus encloses/fuses with ovary; inferior ovary)."
+      }
+    ]
+  },
+  {
+    "chapter": "Anatomy of Flowering Plants",
+    "chapterNumber": 6,
+    "questions": [
+      {
+        "number": 1,
+        "text": "State the location and function of different types of meristems.",
+        "answer": "Apical meristem occurs at root and shoot tips and increases length; intercalary meristem occurs at nodes or leaf bases and enables elongation/regrowth; lateral meristem (vascular and cork cambium) occurs along sides and increases girth."
+      },
+      {
+        "number": 2,
+        "text": "Cork cambium forms tissues that form the cork. Do you agree with this statement? Explain.",
+        "answer": "Yes. Cork cambium (phellogen) divides to form phellem (cork) towards the outside and phelloderm (secondary cortex) towards the inside. Cork cells are dead and suberised, forming a protective barrier."
+      },
+      {
+        "number": 3,
+        "text": "Explain the process of secondary growth in the stems of woody angiosperms with the help of schematic diagrams. What is its significance?",
+        "answer": "In woody dicot stems, vascular cambium becomes a continuous ring. It cuts secondary xylem inward and secondary phloem outward; more xylem is usually produced. Ray initials form vascular rays. Cork cambium develops in the cortex, producing cork outward and phelloderm inward; these form the periderm. Annual rings, bark and lenticels may develop. Secondary growth increases girth and support and adds conducting tissue."
+      },
+      {
+        "number": 4,
+        "text": "Draw illustrations to bring out the anatomical difference between (a) Monocot root and Dicot root (b) Monocot stem and Dicot stem",
+        "answer": "Dicot root: usually 2–6 xylem bundles, exarch, small/absent pith; monocot root: polyarch xylem, exarch, large pith. Dicot stem: vascular bundles in a ring, open (cambium present), distinct cortex/pith; monocot stem: bundles scattered, closed, bundle sheath present, ground tissue not clearly differentiated. Draw transverse sections and label epidermis, cortex, endodermis, pericycle, xylem, phloem, pith and bundle sheath as applicable."
+      },
+      {
+        "number": 5,
+        "text": "Cut a transverse section of young stem of a plant from your school garden and observe it under the microscope. How would you ascertain whether it is a monocot stem or a dicot stem? Give reasons.",
+        "answer": "A dicot stem has vascular bundles arranged in a ring, usually with cambium between xylem and phloem, and a distinct central pith. A monocot stem has numerous scattered, closed vascular bundles, each surrounded by a sclerenchymatous bundle sheath, and ground tissue is not distinctly divided into cortex and pith."
+      },
+      {
+        "number": 6,
+        "text": "The transverse section of a plant material shows the following anatomical features - (a) the vascular bundles are conjoint, scattered and surrounded by a sclerenchymatous bundle sheaths. (b) phloem parenchyma is absent. What will you identify it as?",
+        "answer": "It is a monocot stem (such as maize): its vascular bundles are conjoint, scattered and surrounded by sclerenchymatous bundle sheaths, and phloem parenchyma is absent."
+      },
+      {
+        "number": 7,
+        "text": "Why are xylem and phloem called complex tissues?",
+        "answer": "Xylem and phloem are complex tissues because each consists of more than one type of cell working together. Xylem conducts water/minerals and provides support; phloem transports organic food."
+      },
+      {
+        "number": 8,
+        "text": "What is stomatal apparatus? Explain the structure of stomata with a labelled diagram.",
+        "answer": "Stomatal apparatus consists of the stomatal pore, two guard cells and associated subsidiary cells. Guard cells regulate pore opening. In dicots they are usually kidney-shaped; in grasses they are dumbbell-shaped. Label guard cells, pore, chloroplasts, thick inner wall and subsidiary cells."
+      },
+      {
+        "number": 9,
+        "text": "Name the three basic tissue systems in the flowering plants. Give the tissue names under each system.",
+        "answer": "(1) Epidermal tissue system: epidermis, stomata and epidermal appendages. (2) Ground tissue system: parenchyma, collenchyma and sclerenchyma. (3) Vascular tissue system: xylem and phloem."
+      },
+      {
+        "number": 10,
+        "text": "How is the study of plant anatomy useful to us? 11, What is periderm? How does periderm formation take place in the dicot stems?",
+        "answer": "Plant anatomy helps identify plants and their tissues, distinguish monocots/dicots, understand adaptations and secondary growth, identify wood and plant products, and interpret physiological functions. Periderm is the secondary protective tissue replacing the epidermis during secondary growth. Phellogen produces phellem outward and phelloderm inward."
+      },
+      {
+        "number": 11,
+        "text": "Describe the internal structure of a dorsiventral leaf with the help of labelled diagrams.",
+        "answer": "A dorsiventral leaf has upper and lower epidermis; stomata are usually more numerous on the lower epidermis. Mesophyll is differentiated into palisade parenchyma below the upper epidermis and spongy parenchyma with air spaces. Vascular bundles have xylem towards the upper side and phloem towards the lower side, surrounded by bundle sheath."
+      }
+    ]
+  },
+  {
+    "chapter": "Structural Organisation in Animals",
+    "chapterNumber": 7,
+    "questions": [
+      {
+        "number": 1,
+        "text": "Answer in one word or one line. (i) Give the common name of Periplanata americana. (ii) How many spermathecae are found in earthworm? (iii) What is the position of ovaries in cockroach? (iv) How many segments are present in the abdomen of cockroach? (v) Where do you find Malpighian tubules? 122 BIOLOGY",
+        "answer": "(i) American cockroach. (ii) Four pairs of spermathecae. (iii) Ovaries lie laterally in the 2nd–6th abdominal segments. (iv) Ten visible abdominal segments in the male; in females, seven visible. (v) Malpighian tubules lie at the junction of midgut and hindgut."
+      },
+      {
+        "number": 2,
+        "text": "Answer the following: (i) What is the function of nephridia? (ii) How many types of nephridia are found in earthworm based on their location?",
+        "answer": "Nephridia remove nitrogenous wastes and help in osmoregulation. Based on location, earthworm has three types: septal nephridia, integumentary nephridia and pharyngeal nephridia."
+      },
+      {
+        "number": 3,
+        "text": "Draw a labelled diagram of the reproductive organs of an earthworm.",
+        "answer": "Label paired testes, seminal vesicles, seminal funnels, vasa deferentia, prostate glands, accessory glands, ovaries, oviducts, spermathecae and genital pores. Exact placement should follow the standard earthworm reproductive-system diagram."
+      },
+      {
+        "number": 4,
+        "text": "Draw a labelled diagram of alimentary canal of a cockroach.",
+        "answer": "Label mouth, pharynx, oesophagus, crop, gizzard, midgut, gastric caeca, Malpighian tubules, ileum, colon, rectum and anus."
+      },
+      {
+        "number": 5,
+        "text": "Distinguish between the followings (a) Prostomium and peristomium (b) Septal nephridium and pharyngeal nephridium",
+        "answer": "(a) Prostomium is a lobe overhanging the mouth; peristomium is the first body segment bearing the mouth. (b) Septal nephridia occur on intersegmental septa from about the 15th segment backwards and open into the intestine; pharyngeal nephridia occur as three paired tufts in segments 4–6 and open into the pharynx/buccal cavity."
+      },
+      {
+        "number": 6,
+        "text": "What are the cellular components of blood?",
+        "answer": "Blood has plasma and formed elements: erythrocytes (RBCs), leucocytes (WBCs) and platelets (thrombocytes)."
+      },
+      {
+        "number": 7,
+        "text": "What are the following and where do you find them in animal body. (a) Chondriocytes (b) Axons (c) Ciliated epithelium",
+        "answer": "(a) Chondrocytes: cells in cartilage, located in lacunae. (b) Axons: long processes of neurons that carry impulses away from the cell body. (c) Ciliated epithelium: lining of structures such as bronchioles and oviducts, where cilia move materials."
+      },
+      {
+        "number": 8,
+        "text": "Describe various types of epithelial tissues with the help of labelled diagrams.",
+        "answer": "Epithelia include simple squamous (diffusion/filtration), simple cuboidal (secretion/absorption), simple columnar (absorption/secretion), ciliated (movement of particles/ova), pseudostratified (often protective/secretory), compound/stratified (protection) and glandular epithelium (secretion). Draw and label the cell layers and basement membrane."
+      },
+      {
+        "number": 9,
+        "text": "Distinguish between (a) Simple epithelium and compound epithelium (b) Cardiac muscle and striated muscle (c) Dense regular and dense irregular connective tissues (d) Adipose and blood tissue (e) Simple gland and compound gland",
+        "answer": "(a) Simple epithelium is one cell thick; compound epithelium has multiple layers and is protective. (b) Cardiac muscle is branched, involuntary, striated and has intercalated discs; skeletal striated muscle is long, cylindrical, unbranched and usually voluntary. (c) Dense regular connective tissue has parallel collagen bundles (tendons); dense irregular has fibres in many directions (dermis). (d) Adipose stores fat; blood is a fluid connective tissue for transport/defence. (e) Simple glands are unbranched; compound glands have branched ducts/secretory portions."
+      },
+      {
+        "number": 10,
+        "text": "Mark the odd one in each series: (a) Areolar tissue; blood; neuron; tendon (b) RBC; WBC; platelets; cartilage (c) Exocrine; endocrine; salivary gland; ligament (d) Maxilla; mandible; labrum; antennae (e) Protonema; mesothorax; metathorax; coxa",
+        "answer": "(a) Neuron (not a tissue) is odd. (b) Cartilage is odd (not a formed element of blood). (c) Ligament is odd (not a gland/exocrine-endocrine category). (d) Antennae is odd (not a mouthpart in the listed insect mouthpart set). (e) Protonema is odd (a moss stage, not a cockroach body part)."
+      },
+      {
+        "number": 11,
+        "text": "Match the terms in column I with those in column II: Column I Column II (a) Compound epithelium (i) Alimentary canal (b) Compound eye (ii) Cockroach (c) Septal nephridia (iii) Skin (d) Open circulatory system (iv) Mosaic vision (e) Typhlosole (v) Earthworm (f) Osteocytes (vi) Phallomere (g) Genitalia (vii) Bone",
+        "answer": "(a) Compound epithelium – (iii) Skin; (b) Compound eye – (iv) Mosaic vision; (c) Septal nephridia – (v) Earthworm; (d) Open circulatory system – (ii) Cockroach; (e) Typhlosole – (i) Alimentary canal (earthworm); (f) Osteocytes – (vii) Bone; (g) Genitalia – (vi) Phallomere."
+      },
+      {
+        "number": 12,
+        "text": "Mention breifly about the circulatory system of earthworm",
+        "answer": "Earthworm has a closed circulatory system. Blood flows through a dorsal vessel, ventral vessel and connecting vessels; blood glands produce blood cells. The dorsal vessel carries blood forward and the ventral vessel distributes it to the body. Several pairs of aortic arches act as hearts."
+      },
+      {
+        "number": 13,
+        "text": "Draw a neat diagram of digestive system of frog.",
+        "answer": "Draw the frog digestive system and label mouth/buccal cavity, oesophagus, stomach, duodenum, small intestine, rectum, cloaca, liver, gall bladder and pancreas."
+      },
+      {
+        "number": 14,
+        "text": "Mention the function of the following (a) Ureters in frog (b) Malpighian tubules (c) Body wall in earthworm",
+        "answer": "(a) Ureters carry urine from kidneys to the cloaca; in males they also carry sperm. (b) Malpighian tubules remove nitrogenous wastes and regulate water/ion balance in insects. (c) Earthworm body wall protects the body and, with circular and longitudinal muscles, helps locomotion; it also participates in gas exchange through moist skin."
+      }
+    ]
+  },
+  {
+    "chapter": "Cell: The Unit of Life",
+    "chapterNumber": 8,
+    "questions": [
+      {
+        "number": 1,
+        "text": "Which of the following is not correct? (a) Robert Brown discovered the cell. (b) Schleiden and Schwann formulated the cell theory. (c) Virchow explained that cells are formed from pre-existing cells. (d) A unicellular organism carries out its life activities within a single cell.",
+        "answer": "(a) is not correct: Robert Hooke first described cells in cork; Robert Brown discovered the nucleus. (b), (c) and (d) are correct."
+      },
+      {
+        "number": 2,
+        "text": "New cells generate from (a) bacterial fermentation (b) regeneration of old cells (c) pre-existing cells (d) abiotic materials",
+        "answer": "(c) Pre-existing cells."
+      },
+      {
+        "number": 3,
+        "text": "Match the following Column I Column II (a) Cristae (i) Flat membranous sacs in stroma (b) Cisternae (ii) Infoldings in mitochondria (c) Thylakoids (iii) Disc-shaped sacs in Golgi apparatus",
+        "answer": "Matching: (a) Cristae – (ii) infoldings in mitochondria; (b) Cisternae – (iii) disc-shaped sacs in Golgi apparatus; (c) Thylakoids – (i) flat membranous sacs in chloroplast stroma."
+      },
+      {
+        "number": 4,
+        "text": "Which of the following is correct: (a) Cells of all living organisms have a nucleus. (b) Both animal and plant cells have a well defined cell wall. (c) In prokaryotes, there are no membrane bound organelles. (d) Cells are formed de novo from abiotic materials.",
+        "answer": "(c) In prokaryotes, there are no membrane-bound organelles."
+      },
+      {
+        "number": 5,
+        "text": "What is a mesosome in a prokaryotic cell? Mention the functions that it performs.",
+        "answer": "Mesosomes were described as infoldings of the plasma membrane in prokaryotes. In traditional NCERT descriptions they were associated with cell-wall formation, DNA replication/distribution and respiration. (Modern studies regard many observed mesosomes as artefacts of chemical fixation.)"
+      },
+      {
+        "number": 6,
+        "text": "How do neutral solutes move across the plasma membrane? Can the polar molecules also move across it in the same way? If not, then how are these transported across the membrane?",
+        "answer": "Neutral solutes cross by simple diffusion down their concentration gradient through the lipid bilayer. Polar molecules cannot readily cross the hydrophobic core; they move through specific channel or carrier proteins by facilitated diffusion, or against gradients by active transport."
+      },
+      {
+        "number": 7,
+        "text": "Name two cell-organelles that are double membrane bound. What are the characteristics of these two organelles? State their functions and draw labelled diagrams of both.",
+        "answer": "Mitochondria and chloroplasts are double-membrane-bound. Mitochondria have an outer membrane and folded inner membrane (cristae), matrix, DNA and ribosomes; they carry out aerobic respiration and ATP production. Chloroplasts have outer/inner membranes, stroma, thylakoids arranged in grana, DNA and ribosomes; they carry out photosynthesis. Draw and label these structures."
+      },
+      {
+        "number": 8,
+        "text": "What are the characteristics of prokaryotic cells?",
+        "answer": "Prokaryotic cells lack a true nucleus and membrane-bound organelles; DNA lies in a nucleoid, usually as a circular chromosome. They have 70S ribosomes, plasma membrane, usually a cell wall, and may have plasmids, capsule, pili or flagella. They are generally small and divide by binary fission."
+      },
+      {
+        "number": 9,
+        "text": "Multicellular organisms have division of labour. Explain.",
+        "answer": "Different cells in a multicellular organism are specialised for particular functions. For example, muscle cells contract, neurons transmit impulses, RBCs transport gases and epithelial cells cover surfaces. Their coordinated activities create division of labour."
+      },
+      {
+        "number": 10,
+        "text": "Cell is the basic unit of life. Discuss in brief.",
+        "answer": "All organisms are made of cells; the cell is the smallest structural and functional unit capable of carrying out life processes. Cells perform metabolism, growth, response, reproduction and heredity, and new cells arise from pre-existing cells."
+      },
+      {
+        "number": 11,
+        "text": "What are nuclear pores? State their function.",
+        "answer": "Nuclear pores are protein-lined openings in the nuclear envelope. They regulate movement of RNA, proteins and other molecules between nucleus and cytoplasm."
+      },
+      {
+        "number": 12,
+        "text": "Both lysosomes and vacuoles are endomembrane structures, yet they differ in terms of their functions. Comment.",
+        "answer": "Lysosomes contain hydrolytic enzymes for intracellular digestion and breakdown of worn-out organelles. Vacuoles store water, ions, nutrients, pigments and wastes; plant vacuoles help maintain turgor and osmotic balance. Both belong to the endomembrane system but have different principal roles."
+      },
+      {
+        "number": 13,
+        "text": "Describe the structure of the following with the help of labelled diagrams. (i) Nucleus (ii) Centrosome",
+        "answer": "(i) Nucleus: double nuclear envelope with pores, nucleoplasm, chromatin and nucleolus; it stores genetic material and controls cell activities. (ii) Centrosome: usually near the nucleus in animal cells; consists of two perpendicular centrioles, each with nine peripheral microtubule triplets, surrounded by pericentriolar material; it organises spindle microtubules."
+      },
+      {
+        "number": 14,
+        "text": "What is a centromere? How does the position of centromere form the basis of classification of chromosomes. Support your answer with a diagram showing the position of centromere on different types of chromosomes.",
+        "answer": "A centromere is the primary constriction of a chromosome where sister chromatids are joined and the kinetochore forms. Position types: metacentric (middle; equal arms), submetacentric (off-centre; unequal arms), acrocentric (near one end; one very short arm) and telocentric (terminal centromere; one arm)."
+      }
+    ]
+  },
+  {
+    "chapter": "Biomolecules",
+    "chapterNumber": 9,
+    "questions": [
+      {
+        "number": 1,
+        "text": "What are macromolecules? Give examples.",
+        "answer": "Macromolecules are large, high-molecular-mass molecules, often polymers, such as proteins, nucleic acids and polysaccharides. They are major components of cells; lipids are also cellular macromolecules by function, although many have relatively low molecular mass."
+      },
+      {
+        "number": 2,
+        "text": "Illustrate a glycosidic, peptide and a phospho-diester bond.",
+        "answer": "Glycosidic bond: covalent linkage between monosaccharides, usually through an oxygen atom (e.g. glucose–glucose). Peptide bond: –CO–NH– linkage between the carboxyl group of one amino acid and amino group of another. Phosphodiester bond: phosphate links the 3′-OH of one sugar to the 5′-OH of the next in nucleic acids."
+      },
+      {
+        "number": 3,
+        "text": "What is meant by tertiary structure of proteins?",
+        "answer": "Tertiary structure is the overall three-dimensional folding of a polypeptide chain, produced by interactions among side chains, including hydrogen bonds, ionic bonds, hydrophobic interactions, van der Waals forces and disulphide bridges."
+      },
+      {
+        "number": 4,
+        "text": "Find and write down structures of 10 interesting small molecular weight biomolecules. Find if there is any industry which manufactures the compounds by isolation. Find out who are the buyers.",
+        "answer": "Examples of small biomolecules include glucose, fructose, ribose, amino acids (glycine, alanine), glycerol, fatty acids, nucleotides, ATP and urea. They are isolated or manufactured by food, fermentation, pharmaceutical and chemical industries; buyers include food, medicine, research and cosmetic manufacturers. For an assignment, list the structures and verify the local industry and buyer details with current sources."
+      },
+      {
+        "number": 5,
+        "text": "Proteins have primary structure. If you are given a method to know which amino acid is at either of the two termini (ends) of a protein, can you connect this information to purity or homogeneity of a protein?",
+        "answer": "Yes. A pure, homogeneous protein preparation generally has the same amino acid at a given terminus in all molecules. Different terminal amino acids can indicate a mixture of proteins or different polypeptide chains, although one protein may naturally contain multiple subunits."
+      },
+      {
+        "number": 6,
+        "text": "Find out and make a list of proteins used as therapeutic agents. Find other applications of proteins (e.g., Cosmetics etc.)",
+        "answer": "Therapeutic proteins include insulin, human growth hormone, erythropoietin, interferons, clotting factors and monoclonal antibodies. Other uses include enzymes in detergents and food processing, collagen/gelatin in cosmetics and biomaterials, and casein/whey in nutrition products."
+      },
+      {
+        "number": 7,
+        "text": "Explain the composition of triglyceride. BIOMOLECULES 161",
+        "answer": "A triglyceride consists of one glycerol molecule esterified with three fatty-acid molecules. The fatty acids may be saturated or unsaturated; the ester bonds form between glycerol hydroxyl groups and fatty-acid carboxyl groups."
+      },
+      {
+        "number": 8,
+        "text": "Can you describe what happens when milk is converted into curd or yoghurt, from your understanding of proteins.",
+        "answer": "During curd formation, lactic-acid bacteria (mainly *Lactobacillus*) ferment lactose to lactic acid. The pH falls, causing casein proteins to coagulate and form a semi-solid curd; flavour and texture also change."
+      },
+      {
+        "number": 9,
+        "text": "Can you attempt building models of biomolecules using commercially available atomic models (Ball and Stick models).",
+        "answer": "Yes. Ball-and-stick models can represent atoms as balls and covalent bonds as connecting rods. Use different colours for carbon, hydrogen, oxygen, nitrogen, phosphorus and sulphur; build glucose, amino acids, nucleotides and simple peptides."
+      },
+      {
+        "number": 10,
+        "text": "Attempt titrating an amino acid against a weak base and discover the number of dissociating ( ionizable ) functional groups in the amino acid.",
+        "answer": "An amino acid contains at least two ionisable groups: an acidic carboxyl group (–COOH) and a basic amino group (–NH2). In water it commonly exists as a zwitterion. A titration curve shows buffering regions and equivalence points; the exact number depends on the amino acid's ionisable side chain."
+      },
+      {
+        "number": 11,
+        "text": "Draw the structure of the amino acid, alanine.",
+        "answer": "Alanine: CH3–CH(NH2)–COOH. At physiological pH it is mainly present as the zwitterion CH3–CH(NH3+)–COO−."
+      },
+      {
+        "number": 12,
+        "text": "What are gums made of? Is Fevicol different?",
+        "answer": "Natural gums are generally complex polysaccharides (e.g. arabinogalactans and related carbohydrate polymers) secreted by plants. Fevicol is a manufactured synthetic adhesive, commonly based on a polyvinyl acetate emulsion, not a natural plant gum."
+      },
+      {
+        "number": 13,
+        "text": "Find out a qualitative test for proteins, fats and oils, amino acids and test any fruit juice, saliva, sweat and urine for them.",
+        "answer": "Protein test: Biuret reagent gives violet colour. Starch test: iodine gives blue-black colour. Reducing sugars: Benedict's reagent gives green-to-brick-red precipitate on heating. Fats: ethanol emulsion test gives a milky emulsion or Sudan dye stains lipids. Amino acids: ninhydrin gives purple/blue colour for most amino acids. Testing human body fluids should be done only with safe, supervised, approved samples and proper lab precautions."
+      },
+      {
+        "number": 14,
+        "text": "Find out how much cellulose is made by all the plants in the biosphere and compare it with how much of paper is manufactured by man and hence what is the consumption of plant material by man annually. What a loss of vegetation!",
+        "answer": "Plants produce enormous quantities of cellulose as a structural component of cell walls; global annual production is estimated on the order of 10^11 tonnes. Paper production is much smaller, on the order of 10^8 tonnes annually. Exact comparison varies by year and source; paper uses only a fraction of plant biomass, but unsustainable harvesting can still cause vegetation loss."
+      },
+      {
+        "number": 15,
+        "text": "Describe the important properties of enzymes.",
+        "answer": "Enzymes are biological catalysts, mostly proteins (some RNA). They have high specificity, possess an active site, lower activation energy, do not change the reaction equilibrium, are effective in small amounts, and are affected by temperature, pH, substrate concentration and inhibitors. Many require cofactors or coenzymes."
+      }
+    ]
+  },
+  {
+    "chapter": "Cell Cycle and Cell Division",
+    "chapterNumber": 10,
+    "questions": [
+      {
+        "number": 1,
+        "text": "What is the average cell cycle span for a mammalian cell?",
+        "answer": "A typical mammalian cell cycle takes about 24 hours, though duration varies with cell type and conditions. In the commonly cited human cultured-cell example, interphase occupies most of the cycle."
+      },
+      {
+        "number": 2,
+        "text": "Distinguish cytokinesis from karyokinesis.",
+        "answer": "Karyokinesis is division of the nucleus and distribution of chromosomes into daughter nuclei. Cytokinesis is division of the cytoplasm to form separate daughter cells."
+      },
+      {
+        "number": 3,
+        "text": "Describe the events taking place during interphase.",
+        "answer": "Interphase includes G1, S and G2. In G1 the cell grows and synthesises RNA/proteins; in S phase DNA replicates and chromosomes duplicate; in G2 the cell grows further and prepares proteins/structures needed for mitosis. Metabolic activity is high throughout."
+      },
+      {
+        "number": 4,
+        "text": "What is Go (quiescent phase) of cell cycle? 172 BIOLOGY",
+        "answer": "G0 is a quiescent or non-dividing state in which cells exit the active cell cycle, often from G1. They remain metabolically active and perform specialised functions; some can re-enter the cycle when stimulated."
+      },
+      {
+        "number": 5,
+        "text": "Why is mitosis called equational division?",
+        "answer": "Mitosis is called equational division because the chromosome number remains the same in daughter cells as in the parent cell; each daughter receives one copy of every chromosome."
+      },
+      {
+        "number": 6,
+        "text": "Name the stage of cell cycle at which one of the following events occur: (i) Chromosomes are moved to spindle equator. (ii) Centromere splits and chromatids separate. (iii) Pairing between homologous chromosomes takes place. (iv) Crossing over between homologous chromosomes takes place.",
+        "answer": "(i) Chromosomes align at spindle equator: metaphase. (ii) Centromeres split and sister chromatids separate: anaphase of mitosis (and anaphase II of meiosis). (iii) Homologous chromosomes pair: zygotene of prophase I. (iv) Crossing over: pachytene of prophase I."
+      },
+      {
+        "number": 7,
+        "text": "Describe the following: (a) synapsis (b) bivalent (c) chiasmata Draw a diagram to illustrate your answer.",
+        "answer": "(a) Synapsis is pairing of homologous chromosomes during zygotene of prophase I. (b) A bivalent is a pair of synapsed homologous chromosomes, containing four chromatids. (c) Chiasmata are visible X-shaped points where non-sister chromatids have exchanged segments; they become evident during diplotene. Diagram should label homologues, chromatids and chiasma."
+      },
+      {
+        "number": 8,
+        "text": "How does cytokinesis in plant cells differ from that in animal cells?",
+        "answer": "Animal cells divide by a cleavage furrow formed by a contractile ring that constricts from the periphery inward. Plant cells form a cell plate at the centre from Golgi-derived vesicles; it grows outward and becomes the new cell wall between daughter cells."
+      },
+      {
+        "number": 9,
+        "text": "Find examples where the four daughter cells from meiosis are equal in size and where they are found unequal in size.",
+        "answer": "Equal products: microsporogenesis in flowering plants produces four generally equal microspores; many animal spermatocytes produce four similar spermatids. Unequal products: oogenesis in animals produces one large ovum and small polar bodies; megasporogenesis in many flowering plants produces one functional megaspore and three degenerating megaspores."
+      },
+      {
+        "number": 10,
+        "text": "Distinguish anaphase of mitosis from anaphase I of meiosis.",
+        "answer": "Mitosis anaphase: centromeres divide and sister chromatids separate to opposite poles. Meiosis I anaphase: homologous chromosomes separate while centromeres do not divide, so sister chromatids remain together; chromosome number is reduced."
+      },
+      {
+        "number": 11,
+        "text": "List the main differences between mitosis and meiosis.",
+        "answer": "Mitosis: one division, produces two genetically similar daughter cells, chromosome number maintained, no synapsis/crossing over, occurs in growth/repair/asexual reproduction. Meiosis: two successive divisions after one DNA replication, produces four haploid cells, chromosome number halved, synapsis and crossing over occur in prophase I, forms gametes/spores and generates variation."
+      },
+      {
+        "number": 12,
+        "text": "What is the significance of meiosis?",
+        "answer": "Meiosis maintains chromosome number across generations by halving it before fertilisation, produces haploid gametes/spores, and generates genetic variation through crossing over and independent assortment."
+      },
+      {
+        "number": 13,
+        "text": "Discuss with your teacher about (i) haploid insects and lower plants where cell-division occurs, and (ii) some haploid cells in higher plants where cell-division does not occur.",
+        "answer": "(i) Haploid insects such as male honeybees (drones) can undergo mitotic divisions to grow and form tissues; some lower plants have a haploid gametophyte that divides mitotically. (ii) In higher plants, some haploid cells such as microspores/megaspore-derived cells may differentiate directly or undergo limited divisions depending on the developmental pathway; a cell's haploid state alone does not determine whether it divides."
+      },
+      {
+        "number": 14,
+        "text": "Can there be mitosis without DNA replication in ‘S’ phase?",
+        "answer": "No. S-phase DNA replication is normally required before mitosis so each daughter cell can receive a complete genome. Without DNA replication, normal mitosis would produce daughter cells with insufficient DNA."
+      },
+      {
+        "number": 15,
+        "text": "Can there be DNA replication without cell division?",
+        "answer": "Yes. DNA replication can occur without immediate cell division, for example during endoreduplication/endoreplication or when a cell replicates DNA but arrests before mitosis/cytokinesis."
+      },
+      {
+        "number": 16,
+        "text": "Analyse the events during every stage of cell cycle and notice how the following two parameters change (i) number of chromosomes (N) per cell (ii) amount of DNA content (C) per cell",
+        "answer": "During G1: chromosome number 2N and DNA content 2C. During S: chromosome number remains 2N while DNA content rises from 2C to 4C. During G2: 2N and 4C. After mitosis and cytokinesis, each daughter cell has 2N and 2C. In meiosis, DNA doubles once (2C→4C), meiosis I halves chromosome sets (to N, 2C), and meiosis II halves DNA content (to N, 1C)."
+      }
+    ]
+  },
+  {
+    "chapter": "Transport in Plants",
+    "chapterNumber": 11,
+    "questions": [
+      {
+        "number": 1,
+        "text": "What are the factors affecting the rate of diffusion?",
+        "answer": "Diffusion rate depends on concentration gradient, temperature, pressure (for gases), surface area, diffusion distance, molecular size and the permeability/nature of the medium."
+      },
+      {
+        "number": 2,
+        "text": "What are porins? What role do they play in diffusion?",
+        "answer": "Porins are channel-forming proteins in the outer membranes of some bacteria, mitochondria and chloroplasts. They allow passive diffusion of small hydrophilic molecules and ions through pores."
+      },
+      {
+        "number": 3,
+        "text": "Describe the role played by protein pumps during active transport in plants.",
+        "answer": "Protein pumps use energy, usually from ATP, to move ions or molecules against their electrochemical gradients across membranes. They maintain ion gradients and membrane potentials and help drive secondary active transport."
+      },
+      {
+        "number": 4,
+        "text": "Explain why pure water has the maximum water potential.",
+        "answer": "Pure water has the maximum water potential, conventionally assigned zero at standard reference conditions, because it has no dissolved solute lowering its chemical potential. Solutes make water potential more negative."
+      },
+      {
+        "number": 5,
+        "text": "Differentiate between the following: (a) Diffusion and Osmosis (b) Transpiration and Evaporation (c) Osmotic Pressure and Osmotic Potential (d) Imbibition and Diffusion (e) Apoplast and Symplast pathways of movement of water in plants. (f) Guttation and Transpiration.",
+        "answer": "(a) Diffusion: net movement of molecules down a concentration gradient; osmosis: movement of water through a selectively permeable membrane from higher to lower water potential. (b) Transpiration: loss of water vapour from aerial plant parts, mainly stomata; evaporation: surface conversion of liquid to vapour. (c) Osmotic pressure is the pressure needed to prevent osmosis; osmotic potential is the negative component of water potential due to solutes. (d) Imbibition is adsorption of water by hydrophilic colloids causing swelling; diffusion is net movement down a concentration gradient. (e) Apoplast: movement through cell walls/intercellular spaces; symplast: movement through cytoplasm connected by plasmodesmata. (f) Guttation is liquid water loss through hydathodes; transpiration is water-vapour loss, mainly through stomata."
+      },
+      {
+        "number": 6,
+        "text": "Briefly describe water potential. What are the factors affecting it?",
+        "answer": "Water potential (Ψw) is the potential energy of water relative to pure water at the same temperature and pressure. It is determined mainly by solute potential (Ψs) and pressure potential (Ψp): Ψw = Ψs + Ψp. Gravity and matric effects may also contribute in some situations. Solutes lower Ψw; positive pressure raises it."
+      },
+      {
+        "number": 7,
+        "text": "What happens when a pressure greater than the atmospheric pressure is applied to pure water or a solution?",
+        "answer": "Applying pressure raises the water potential of pure water or a solution. If sufficient pressure is applied, water can move against its usual osmotic direction; pressure can even make the solution's water potential higher than that of pure water at atmospheric pressure."
+      },
+      {
+        "number": 8,
+        "text": "(a) With the help of well-labelled diagrams, describe the process of plasmolysis in plants, giving appropriate examples. (b) Explain what will happen to a plant cell if it is kept in a solution having higher water potential.",
+        "answer": "(a) In a hypertonic solution, water leaves the plant cell by osmosis; the protoplast shrinks away from the cell wall, causing plasmolysis (e.g. onion epidermal cells in concentrated salt/sugar solution). On returning to water, deplasmolysis may occur. (b) A solution with higher water potential than the cell is hypotonic to it; water enters and the cell becomes turgid."
+      },
+      {
+        "number": 9,
+        "text": "How is the mycorrhizal association helpful in absorption of water and minerals in plants?",
+        "answer": "Mycorrhizal fungi form a symbiotic association with roots. Their hyphae extend the effective absorptive surface, improving uptake of water and minerals, especially phosphate; the plant supplies carbohydrates to the fungus."
+      },
+      {
+        "number": 10,
+        "text": "What role does root pressure play in water movement in plants?",
+        "answer": "Root pressure is positive pressure generated in xylem by active ion accumulation and osmotic water entry. It can cause guttation and may assist short-distance upward movement, but is insufficient to explain ascent of sap in tall trees."
+      },
+      {
+        "number": 11,
+        "text": "Describe transpiration pull model of water transport in plants. What are the factors influencing transpiration? How is it useful to plants?",
+        "answer": "Evaporation from moist mesophyll cell walls lowers leaf water potential, creating tension in xylem. Cohesion between water molecules and adhesion to xylem walls transmit this tension down the continuous water column, pulling water upward. Rate is influenced by light, temperature, humidity, wind and soil water. Transpiration cools leaves and aids mineral transport and water distribution."
+      },
+      {
+        "number": 12,
+        "text": "Discuss the factors responsible for ascent of xylem sap in plants.",
+        "answer": "Ascent of xylem sap is explained mainly by transpiration pull, cohesion between water molecules, adhesion to xylem walls and the continuous water column in narrow xylem elements. Root pressure and capillarity may make minor contributions."
+      },
+      {
+        "number": 13,
+        "text": "What essential role does the root endodermis play during mineral absorption in plants?",
+        "answer": "The endodermis has a Casparian strip of suberin that blocks passive apoplastic flow. It forces water and dissolved minerals to cross a selectively permeable plasma membrane, enabling selective uptake and preventing backflow from the stele."
+      },
+      {
+        "number": 14,
+        "text": "Explain why xylem transport is unidirectional and phloem transport bi-directional.",
+        "answer": "Xylem transport is mainly upward because transpiration from leaves creates a tension gradient pulling water from roots to shoots. Phloem translocates sugars from sources to sinks, and source/sink positions can vary, so flow may be upward or downward in different sieve tubes."
+      },
+      {
+        "number": 15,
+        "text": "Explain pressure flow hypothesis of translocation of sugars in plants.",
+        "answer": "At a source, sucrose is actively loaded into phloem, lowering water potential; water enters from xylem and raises hydrostatic pressure. At a sink, sugars are unloaded and used/stored, water potential rises and water exits to xylem, lowering pressure. The pressure gradient drives bulk flow from source to sink."
+      },
+      {
+        "number": 16,
+        "text": "What causes the opening and closing of guard cells of stomata during transpiration?",
+        "answer": "Guard-cell turgor controls stomatal opening. Light and low internal CO2 promote solute (especially K+) uptake and water entry, making guard cells turgid and opening the pore. In darkness or water stress, ions and water leave; ABA promotes closure as guard cells become flaccid."
+      }
+    ]
+  },
+  {
+    "chapter": "Mineral Nutrition",
+    "chapterNumber": 12,
+    "questions": [
+      {
+        "number": 1,
+        "text": "‘All elements that are present in a plant need not be essential to its survival’. Comment.",
+        "answer": "An element is essential only if the plant cannot complete its life cycle without it, its role cannot be replaced by another element, and it is directly involved in plant metabolism or structure. Some elements may be present due to uptake from soil or contamination but are not essential."
+      },
+      {
+        "number": 2,
+        "text": "Why is purification of water and nutrient salts so important in studies involving mineral nutrition using hydroponics?",
+        "answer": "Hydroponic experiments require purified water and nutrient salts so that unintended mineral ions do not enter the solution and mask deficiency symptoms or falsely suggest that a non-essential element is required."
+      },
+      {
+        "number": 3,
+        "text": "Explain with examples: macronutrients, micronutrients, beneficial nutrients, toxic elements and essential elements.",
+        "answer": "Macronutrients are required in large amounts (N, P, K, Ca, Mg, S). Micronutrients are required in trace amounts (Fe, Mn, Zn, Cu, B, Mo, Cl, Ni). Beneficial elements promote growth in some plants but are not essential for all (e.g. Na, Si, Co). Toxic elements harm plants above threshold concentrations (e.g. excess Mn or Al). Essential elements satisfy the criteria of indispensability, specificity and direct involvement in metabolism."
+      },
+      {
+        "number": 4,
+        "text": "Name at least five different deficiency symptoms in plants. Describe them and correlate them with the concerned mineral deficiency.",
+        "answer": "Examples: chlorosis (N, K, Mg, S or Fe deficiency); necrosis (Ca, Mg, Cu or K deficiency); inhibition of cell division/short roots (Ca deficiency); delayed flowering/reduced growth (N, S or Mo deficiency); premature leaf fall (N, Mg or K deficiency); anthocyanin accumulation/purpling (P deficiency); die-back of shoot tips (Cu or Ca deficiency). Symptoms can overlap and must be diagnosed with more than one indicator."
+      },
+      {
+        "number": 5,
+        "text": "If a plant shows a symptom which could develop due to deficiency of more than one nutrient, how would you find out experimentally, the real deficient mineral element?",
+        "answer": "Grow matched plants in complete nutrient solution and in solutions each lacking one candidate mineral, keeping all other conditions identical. Compare growth and symptoms, then restore the suspected element to a deficient plant. Recovery after adding that element supports its identification as the limiting nutrient."
+      },
+      {
+        "number": 6,
+        "text": "Why is that in certain plants deficiency symptoms appear first in younger parts of the plant while in others they do so in mature organs?",
+        "answer": "Mobile elements can be transported from older tissues to growing regions, so deficiency symptoms first appear in older leaves (e.g. N, P, K, Mg). Immobile or poorly mobile elements cannot be readily redistributed, so symptoms appear first in young tissues (e.g. Ca, S, Fe, B)."
+      },
+      {
+        "number": 7,
+        "text": "How are the minerals absorbed by the plants?",
+        "answer": "Minerals are absorbed as ions by root cells. Uptake occurs by passive transport down electrochemical gradients or active transport using ATP-driven pumps and carrier proteins. Ions move through apoplast and symplast pathways, cross the endodermis selectively, and enter xylem for transport to shoots."
+      },
+      {
+        "number": 8,
+        "text": "What are the conditions necessary for fixation of atmospheric nitrogen by Rhizobium. What is their role in N2-fixation?",
+        "answer": "Rhizobium nitrogen fixation requires low-oxygen conditions, the enzyme nitrogenase, ATP, reducing power, a compatible host and leghemoglobin to regulate oxygen in nodules. Nitrogenase reduces atmospheric N2 to ammonia; the plant supplies carbohydrates and a protected environment, while the bacteria supply fixed nitrogen."
+      },
+      {
+        "number": 9,
+        "text": "What are the steps involved in formation of a root nodule?",
+        "answer": "Root-hair infection by compatible Rhizobium; bacteria enter through an infection thread; cortical/pericycle cells divide to form a nodule primordium; bacteria are released into host cells and differentiate into bacteroids; vascular connections develop and the mature nodule fixes nitrogen. Leghemoglobin helps maintain suitable oxygen levels."
+      },
+      {
+        "number": 10,
+        "text": "Which of the following statements are true? If false, correct them: (a) Boron deficiency leads to stout axis. (b) Every mineral element that is present in a cell is needed by the cell. (c) Nitrogen as a nutrient element, is highly immobile in the plants. (d) It is very easy to establish the essentiality of micronutrients because they are required only in trace quantities.",
+        "answer": "(a) False: boron deficiency commonly causes death of shoot/root tips and poor meristem activity; stout axis is not the standard symptom. (b) False: presence does not prove essentiality. (c) False: nitrogen is relatively mobile and can be retranslocated from older leaves. (d) False: essentiality of micronutrients is difficult to establish because contamination and interactions can affect results, despite their trace requirement."
+      }
+    ]
+  },
+  {
+    "chapter": "Photosynthesis in Higher Plants",
+    "chapterNumber": 13,
+    "questions": [
+      {
+        "number": 1,
+        "text": "By looking at a plant externally can you tell whether a plant is C3 or C4? Why and how?",
+        "answer": "Not reliably from external appearance alone. C3 and C4 plants can look similar; some ecological or anatomical clues may suggest a pathway, but biochemical tests or leaf anatomy are needed for a dependable identification."
+      },
+      {
+        "number": 2,
+        "text": "By looking at which internal structure of a plant can you tell whether a plant is C3 or C4? Explain.",
+        "answer": "Examine leaf anatomy. C4 plants show Kranz anatomy: large bundle-sheath cells arranged around vascular bundles, usually with many chloroplasts, surrounded by mesophyll cells. C3 leaves generally lack this specialised wreath-like arrangement."
+      },
+      {
+        "number": 3,
+        "text": "Even though a very few cells in a C4 plant carry out the biosynthetic – Calvin pathway, yet they are highly productive. Can you discuss why? PHOTOSYNTHESIS IN HIGHER PLANTS 225",
+        "answer": "Although the Calvin cycle occurs mainly in bundle-sheath cells, C4 plants first fix CO2 in mesophyll cells into four-carbon acids, which transport and release CO2 in bundle-sheath cells. This concentrates CO2 around RuBisCO, suppresses photorespiration and supports high photosynthetic productivity, especially in high light and temperature."
+      },
+      {
+        "number": 4,
+        "text": "RuBisCO is an enzyme that acts both as a carboxylase and oxygenase. Why do you think RuBisCO carries out more carboxylation in C4 plants?",
+        "answer": "C4 plants concentrate CO2 around RuBisCO in bundle-sheath cells by first fixing it with PEP carboxylase in mesophyll cells. PEP carboxylase has high affinity for CO2/HCO3− and no oxygenase activity, so the high CO2 concentration favours RuBisCO carboxylation over oxygenation."
+      },
+      {
+        "number": 5,
+        "text": "Suppose there were plants that had a high concentration of Chlorophyll b, but lacked chlorophyll a, would it carry out photosynthesis? Then why do plants have chlorophyll b and other accessory pigments?",
+        "answer": "No. Chlorophyll a is the essential reaction-centre pigment that directly participates in the photochemical act. Chlorophyll b and other accessory pigments broaden the range of light absorbed and transfer excitation energy to chlorophyll a."
+      },
+      {
+        "number": 6,
+        "text": "Why is the colour of a leaf kept in the dark frequently yellow, or pale green? Which pigment do you think is more stable?",
+        "answer": "In darkness, chlorophyll is not replenished efficiently and chlorophyll may be degraded, revealing yellow carotenoids and xanthophylls. Carotenoids are generally more stable than chlorophyll and persist longer."
+      },
+      {
+        "number": 7,
+        "text": "Look at leaves of the same plant on the shady side and compare it with the leaves on the sunny side. Or, compare the potted plants kept in the sunlight with those in the shade. Which of them has leaves that are darker green ? Why?",
+        "answer": "Leaves on the sunny side are often thicker and may be darker green because they develop more palisade tissue and can contain more chlorophyll per leaf area. Shade leaves may be larger and thinner and can have a higher chlorophyll content per unit dry mass; the exact appearance depends on species and conditions."
+      },
+      {
+        "number": 8,
+        "text": "Figure 13.10 shows the effect of light on the rate of photosynthesis. Based on the graph, answer the following questions: (a) At which point/s (A, B or C) in the curve is light a limiting factor? (b) What could be the limiting factor/s in region A? (c) What do C and D represent on the curve?",
+        "answer": "(a) Light is limiting where the curve rises with increasing light intensity, typically from the origin through region A up to the light-saturation point. (b) In region A, light is limiting; at higher intensities, CO2 concentration, temperature or enzyme capacity may become limiting. (c) C generally indicates light saturation; D represents the plateau/rate at saturation in the diagram. Exact labels depend on the supplied graph, which is not included in the extracted file."
+      },
+      {
+        "number": 9,
+        "text": "Give comparison between the following: (a) C3 and C4 pathways (b) Cyclic and non-cyclic photophosphorylation (c) Anatomy of leaf in C3 and C4 plants",
+        "answer": "(a) C3: first stable product 3-PGA (3C), initial fixation by RuBisCO, Calvin cycle in mesophyll, photorespiration significant. C4: first stable product oxaloacetate (4C), initial fixation by PEP carboxylase, spatial separation between mesophyll and bundle sheath, low photorespiration. (b) Cyclic photophosphorylation uses PSI only; electrons return to PSI; produces ATP but not NADPH or O2. Non-cyclic uses PSII and PSI; electrons move from water to NADP+; produces ATP, NADPH and O2. (c) C3 leaves lack Kranz anatomy and usually have relatively uniform chloroplast-bearing mesophyll; C4 leaves show Kranz anatomy with specialised bundle-sheath chloroplasts."
+      }
+    ]
+  },
+  {
+    "chapter": "Respiration in Plants",
+    "chapterNumber": 14,
+    "questions": [
+      {
+        "number": 1,
+        "text": "Differentiate between (a) Respiration and Combustion (b) Glycolysis and Krebs’ cycle (c) Aerobic respiration and Fermentation",
+        "answer": "(a) Respiration is enzyme-controlled, stepwise oxidation of food with energy conserved as ATP; combustion is rapid, uncontrolled oxidation releasing heat/light. (b) Glycolysis occurs in cytoplasm, converts glucose to pyruvate and yields net 2 ATP and 2 NADH; Krebs cycle occurs in mitochondrial matrix, oxidises acetyl-CoA and yields CO2, NADH, FADH2 and ATP/GTP. (c) Aerobic respiration uses oxygen as final electron acceptor and completely oxidises substrate; fermentation occurs without oxygen, incompletely breaks down substrate and regenerates NAD+."
+      },
+      {
+        "number": 2,
+        "text": "What are respiratory substrates? Name the most common respiratory substrate.",
+        "answer": "Respiratory substrates are organic molecules oxidised during respiration to release energy. Carbohydrates, especially glucose, are the most common respiratory substrate."
+      },
+      {
+        "number": 3,
+        "text": "Give the schematic representation of glycolysis?",
+        "answer": "Glucose → glucose-6-phosphate (ATP used) → fructose-6-phosphate → fructose-1,6-bisphosphate (ATP used) → two triose phosphates → 2 × pyruvate. Net per glucose: 2 ATP and 2 NADH are produced; 2 ATP are consumed."
+      },
+      {
+        "number": 4,
+        "text": "What are the main steps in aerobic respiration? Where does it take place?",
+        "answer": "Main stages: glycolysis in cytoplasm; pyruvate oxidation to acetyl-CoA in mitochondrial matrix; Krebs cycle in matrix; electron transport and oxidative phosphorylation on the inner mitochondrial membrane. Oxygen is the final electron acceptor, forming water."
+      },
+      {
+        "number": 5,
+        "text": "Give the schematic representation of an overall view of Krebs’ cycle.",
+        "answer": "Acetyl-CoA (2C) + oxaloacetate (4C) → citrate (6C) → isocitrate → α-ketoglutarate (5C) + CO2 + NADH → succinyl-CoA (4C) + CO2 + NADH → succinate + ATP/GTP → fumarate + FADH2 → malate → oxaloacetate + NADH. One turn per acetyl-CoA yields 2 CO2, 3 NADH, 1 FADH2 and 1 ATP/GTP."
+      },
+      {
+        "number": 6,
+        "text": "Explain ETS.",
+        "answer": "Electrons from NADH and FADH2 pass through complexes of the electron transport system in the inner mitochondrial membrane. Energy released pumps protons into the intermembrane space, creating an electrochemical gradient. Protons flow back through ATP synthase, driving ATP formation. Oxygen accepts electrons at the end and combines with protons to form water."
+      },
+      {
+        "number": 7,
+        "text": "Distinguish between the following: (a) Aerobic respiration and Anaerobic respiration (b) Glycolysis and Fermentation (c) Glycolysis and Citric acid Cycle",
+        "answer": "(a) Aerobic respiration requires oxygen and generally completely oxidises substrates; anaerobic respiration/fermentation occurs without oxygen and yields less ATP. (b) Glycolysis is the cytoplasmic conversion of glucose to pyruvate; fermentation is a subsequent pathway that converts pyruvate or its derivatives to products such as lactate/ethanol while regenerating NAD+. (c) Glycolysis occurs in cytoplasm and yields pyruvate; citric acid cycle occurs in mitochondrial matrix and oxidises acetyl-CoA to CO2."
+      },
+      {
+        "number": 8,
+        "text": "What are the assumptions made during the calculation of net gain of ATP?",
+        "answer": "Assumptions: pathways operate in a sequential, orderly manner; NADH made in glycolysis is transferred into mitochondria and oxidised by ETS; intermediates are not diverted to biosynthesis; ATP is produced only through the stated substrate-level and oxidative phosphorylation steps; the substrate is completely oxidised and oxygen is available."
+      },
+      {
+        "number": 9,
+        "text": "Discuss “The respiratory pathway is an amphibolic pathway.”",
+        "answer": "It is amphibolic because it serves both catabolic and anabolic roles. It breaks down carbohydrates, fats and proteins to release energy, while intermediates such as acetyl-CoA and Krebs-cycle compounds are used to synthesise fatty acids, amino acids and other biomolecules."
+      },
+      {
+        "number": 10,
+        "text": "Define RQ. What is its value for fats?",
+        "answer": "Respiratory quotient (RQ) = volume of CO2 evolved / volume of O2 consumed. For fats, RQ is about 0.7 because fat oxidation consumes relatively more oxygen than the carbon dioxide produced."
+      },
+      {
+        "number": 11,
+        "text": "What is oxidative phosphorylation?",
+        "answer": "Oxidative phosphorylation is ATP synthesis coupled to electron transport: energy from oxidation of NADH/FADH2 creates a proton gradient across the inner mitochondrial membrane, and ATP synthase uses proton flow to form ATP from ADP and inorganic phosphate."
+      },
+      {
+        "number": 12,
+        "text": "What is the significance of step-wise release of energy in respiration? PLANT GROWTH AND DEVELOPMENT 239",
+        "answer": "Stepwise release allows energy to be captured efficiently in ATP and reduced coenzymes, limits loss as heat, and permits regulation of the pathway. A sudden release of all energy would be wasteful and could damage cells."
+      },
+      {
+        "number": 13,
+        "text": "Have you ever thought about where and how the structures like roots,",
+        "answer": "Roots and shoots develop from meristematic tissues. Root apical meristems produce primary root tissues; shoot apical meristems produce stem, leaves and flowers. Lateral meristems contribute to secondary growth. (The source question is truncated after 'roots,', so the exact remaining wording should be restored.)"
+      }
+    ]
+  },
+  {
+    "chapter": "Plant Growth and Development",
+    "chapterNumber": 15,
+    "questions": [
+      {
+        "number": 1,
+        "text": "Define growth, differentiation, development, dedifferentiation, redifferentiation, determinate growth, meristem and growth rate.",
+        "answer": "Growth: irreversible increase in size/mass. Differentiation: cells become structurally and functionally specialised. Development: sum of growth, differentiation and morphogenesis. Dedifferentiation: mature cells regain the capacity to divide. Redifferentiation: dedifferentiated cells mature again to perform specific functions. Determinate growth: growth stops after reaching a genetically set size/structure. Meristem: plant tissue with actively dividing cells. Growth rate: increase in size/biomass per unit time."
+      },
+      {
+        "number": 2,
+        "text": "Why is not any one parameter good enough to demonstrate growth throughout the life of a flowering plant?",
+        "answer": "No single parameter works throughout a flowering plant because different organs grow in different ways and at different times. Length, area, volume, fresh mass, dry mass and cell number may each be useful in different contexts; water content can also change without true biomass increase."
+      },
+      {
+        "number": 3,
+        "text": "Describe briefly: (a) Arithmetic growth (b) Geometric growth (c) Sigmoid growth curve (d) Absolute and relative growth rates",
+        "answer": "(a) Arithmetic growth: one daughter cell continues dividing while the other differentiates; linear increase, Lt = L0 + rt. (b) Geometric growth: both daughter cells continue dividing; exponential increase under ideal conditions. (c) Sigmoid curve: lag, rapid/log, deceleration and stationary phases. (d) Absolute growth rate is total growth per unit time; relative growth rate is growth per unit initial size per unit time."
+      },
+      {
+        "number": 4,
+        "text": "List five main groups of natural plant growth regulators. Write a note on discovery, physiological functions and agricultural/horticultural applications of any one of them.",
+        "answer": "Five major groups: auxins, gibberellins, cytokinins, ethylene and abscisic acid. Example—auxin: Darwin and later Went contributed to its discovery; produced in shoot tips/young tissues; promotes cell elongation, apical dominance, root initiation, tropic responses and fruit development. Uses include rooting powders, prevention of premature fruit drop and selective weed control (synthetic auxins)."
+      },
+      {
+        "number": 5,
+        "text": "What do you understand by photoperiodism and vernalisation? Describe their significance.",
+        "answer": "Photoperiodism is the response of plants to relative lengths of day and night, especially flowering. Vernalisation is promotion of flowering by exposure to low temperature. Both help plants flower in suitable seasons and synchronise reproduction with favourable conditions."
+      },
+      {
+        "number": 6,
+        "text": "Why is abscisic acid also known as stress hormone?",
+        "answer": "Abscisic acid promotes responses to stress, especially drought: it induces stomatal closure, inhibits growth, promotes seed/bud dormancy and helps plants tolerate unfavourable conditions; hence it is called the stress hormone."
+      },
+      {
+        "number": 7,
+        "text": "‘Both growth and differentiation in higher plants are open’. Comment.",
+        "answer": "Growth is open because meristems remain active and can produce new cells throughout life. Differentiation is also open/plastic because cells can retain or regain developmental potential and may differentiate differently depending on position and environment."
+      },
+      {
+        "number": 8,
+        "text": "‘Both a short day plant and a long day plant can produce can flower simultaneously in a given place’. Explain.",
+        "answer": "Yes. Flowering depends on each species' critical photoperiod and, importantly, the length of uninterrupted night. At a particular place and season, day/night duration may fall within the inductive range of both a short-day and a long-day plant if their critical thresholds differ."
+      },
+      {
+        "number": 9,
+        "text": "Which one of the plant growth regulators would you use if you are asked to: (a) induce rooting in a twig (b) quickly ripen a fruit (c) delay leaf senescence (d) induce growth in axillary buds (e) ‘bolt’ a rosette plant (f) induce immediate stomatal closure in leaves.",
+        "answer": "(a) Auxin (e.g. IBA/NAA) (b) Ethylene (often applied as ethephon) (c) Cytokinin (d) Cytokinin (e) Gibberellin (GA3) (f) Abscisic acid (ABA)."
+      },
+      {
+        "number": 10,
+        "text": "Would a defoliated plant respond to photoperiodic cycle? Why?",
+        "answer": "Usually no, because leaves perceive photoperiod and produce a flowering stimulus (florigen) that is transported to the shoot apex. A completely defoliated plant lacks the main photoperiod-perceiving organs, so it generally does not respond normally."
+      },
+      {
+        "number": 11,
+        "text": "What would be expected to happen if: (a) GA3 is applied to rice seedlings (b) dividing cells stop differentiating (c) a rotten fruit gets mixed with unripe fruits (d) you forget to add cytokinin to the culture medium.",
+        "answer": "(a) GA3 promotes internode elongation and may cause excessive stem elongation/bolting in rice seedlings. (b) Dividing cells that do not differentiate may form an undifferentiated mass of cells. (c) Ethylene released by the rotten fruit accelerates ripening of nearby unripe fruits. (d) Without cytokinin, cell division and shoot formation in tissue culture are reduced; auxin-dominant conditions may favour roots or callus rather than shoots."
+      }
+    ]
+  },
+  {
+    "chapter": "Digestion and Absorption",
+    "chapterNumber": 16,
+    "questions": [
+      {
+        "number": 1,
+        "text": "Choose the correct answer among the following : (a) Gastric juice contains (i) pepsin, lipase and rennin (ii) trypsin, lipase and rennin (iii) trypsin, pepsin and lipase (iv) trypsin, pepsin and renin (b) Succus entericus is the name given to (i) a junction between ileum and large intestine (ii) intestinal juice (iii) swelling in the gut (iv) appendix",
+        "answer": "(a) (i) pepsin, lipase and rennin is the best answer among the listed options (rennin is mainly important in infants; gastric juice contains pepsin and gastric lipase). (b) (ii) intestinal juice."
+      },
+      {
+        "number": 2,
+        "text": "Match column I with column II Column I Column II (a) Bilirubin and biliverdin (i) Parotid (b) Hydrolysis of starch (ii) Bile (c) Digestion of fat (iii) Lipases (d) Salivary gland (iv) Amylases",
+        "answer": "(a) Bilirubin and biliverdin – (ii) bile; (b) Hydrolysis of starch – (iv) amylases; (c) Digestion of fat – (iii) lipases; (d) Salivary gland – (i) parotid."
+      },
+      {
+        "number": 3,
+        "text": "Answer briefly: (a) Why are villi present in the intestine and not in the stomach? (b) How does pepsinogen change into its active form? (c) What are the basic layers of the wall of alimentary canal? (d) How does bile help in the digestion of fats?",
+        "answer": "(a) Villi greatly increase the surface area for absorption of digested nutrients; the stomach is mainly for storage, mixing and initial protein digestion and does not need villi. (b) HCl in gastric juice converts inactive pepsinogen into active pepsin; pepsin then activates more pepsinogen. (c) Mucosa, submucosa, muscularis and serosa. (d) Bile salts emulsify fats into small droplets and aid lipase action and micelle formation; bile also helps neutralise acidic chyme."
+      },
+      {
+        "number": 4,
+        "text": "State the role of pancreatic juice in digestion of proteins.",
+        "answer": "Pancreatic juice contains proteases secreted as inactive zymogens: trypsinogen is activated by enterokinase/enteropeptidase to trypsin; trypsin activates chymotrypsinogen and procarboxypeptidases. These enzymes break proteins and peptides into smaller peptides and amino acids."
+      },
+      {
+        "number": 5,
+        "text": "Describe the process of digestion of protein in stomach.",
+        "answer": "In the stomach, HCl denatures proteins and provides an acidic pH; it converts pepsinogen to pepsin. Pepsin breaks proteins into smaller peptides and proteoses/peptones. In infants, rennin helps coagulate milk protein."
+      },
+      {
+        "number": 6,
+        "text": "Give the dental formula of human beings.",
+        "answer": "Adult human dental formula: 2.1.2.3 / 2.1.2.3 = 32 teeth (per half of each jaw: 2 incisors, 1 canine, 2 premolars, 3 molars)."
+      },
+      {
+        "number": 7,
+        "text": "Bile juice contains no digestive enzymes, yet it is important for digestion. Why?",
+        "answer": "Bile salts emulsify large fat globules into tiny droplets, increasing surface area for pancreatic lipase. They also help form micelles for absorption of fatty acids and monoglycerides; bile is alkaline and helps neutralise acidic chyme."
+      },
+      {
+        "number": 8,
+        "text": "Describe the digestive role of chymotrypsin. Which two other digestive enzymes of the same category are secreted by its source gland?",
+        "answer": "Chymotrypsin is a pancreatic protease that hydrolyses peptide bonds, especially near aromatic amino acids. It is secreted as chymotrypsinogen and activated by trypsin. The other pancreatic proteases in the same group include trypsin and carboxypeptidase."
+      },
+      {
+        "number": 9,
+        "text": "How are polysaccharides and disaccharides digested?",
+        "answer": "Polysaccharides are hydrolysed by amylases into smaller oligosaccharides/disaccharides. Brush-border enzymes then digest disaccharides: maltase → glucose, sucrase → glucose + fructose, lactase → glucose + galactose. Monosaccharides are absorbed through intestinal epithelium."
+      },
+      {
+        "number": 10,
+        "text": "What would happen if HCl were not secreted in the stomach?",
+        "answer": "Without HCl, the stomach would not maintain the acidic pH needed for pepsin activation and action; protein digestion would be impaired, and the antimicrobial action of gastric juice would decrease."
+      },
+      {
+        "number": 11,
+        "text": "How does butter in your food get digested and absorbed in the body?",
+        "answer": "Butter fat is emulsified by bile salts in the small intestine. Pancreatic lipase hydrolyses triglycerides mainly into monoglycerides and fatty acids. These form micelles, enter intestinal epithelial cells, are re-esterified to triglycerides and packaged into chylomicrons, which enter lacteals and then lymph before reaching blood."
+      },
+      {
+        "number": 12,
+        "text": "Discuss the main steps in the digestion of proteins as the food passes through different parts of the alimentary canal.",
+        "answer": "In the stomach, HCl denatures proteins and activates pepsin, which forms smaller peptides. In the small intestine, pancreatic proteases (trypsin, chymotrypsin, carboxypeptidases) further hydrolyse peptides. Brush-border peptidases produce amino acids and small peptides, which are absorbed into intestinal cells and pass into blood."
+      },
+      {
+        "number": 13,
+        "text": "Explain the term thecodont and diphyodont.",
+        "answer": "Thecodont dentition means teeth are embedded in sockets of the jaw bones. Diphyodont dentition means two successive sets of teeth occur during life: deciduous (milk) teeth and permanent teeth."
+      },
+      {
+        "number": 14,
+        "text": "Name different types of teeth and their number in an adult human.",
+        "answer": "Adult humans have 32 teeth: 8 incisors, 4 canines, 8 premolars and 12 molars."
+      },
+      {
+        "number": 15,
+        "text": "What are the functions of liver?",
+        "answer": "The liver produces bile; regulates carbohydrate, lipid and protein metabolism; stores glycogen, vitamins and iron; deaminates amino acids and forms urea; detoxifies drugs/toxins; synthesises plasma proteins and clotting factors; and breaks down old RBCs/haemoglobin."
+      }
+    ]
+  },
+  {
+    "chapter": "Breathing and Exchange of Gases",
+    "chapterNumber": 17,
+    "questions": [
+      {
+        "number": 1,
+        "text": "Define vital capacity. What is its significance?",
+        "answer": "Vital capacity is the maximum volume of air a person can breathe out after a maximum inspiration. It equals IRV + tidal volume + ERV and indicates the usable ventilatory capacity of the lungs and respiratory muscles."
+      },
+      {
+        "number": 2,
+        "text": "State the volume of air remaining in the lungs after a normal breathing.",
+        "answer": "After a normal expiration, the air remaining in the lungs is the functional residual capacity (FRC), approximately 2,300 mL in a typical adult."
+      },
+      {
+        "number": 3,
+        "text": "Diffusion of gases occurs in the alveolar region only and not in the other parts of respiratory system. Why?",
+        "answer": "Alveoli have an extremely thin respiratory membrane, extensive surface area, dense capillary network and moist lining, providing a short diffusion distance. Other respiratory passages mainly conduct, warm, filter and humidify air and lack this specialised exchange surface."
+      },
+      {
+        "number": 4,
+        "text": "What are the major transport mechanisms for CO2? Explain.",
+        "answer": "About 7% of CO2 is transported dissolved in plasma, about 20–25% bound to haemoglobin as carbaminohaemoglobin, and about 70% as bicarbonate ions. In RBCs, carbonic anhydrase converts CO2 and water to carbonic acid, which dissociates into H+ and HCO3−; bicarbonate moves into plasma in exchange for chloride."
+      },
+      {
+        "number": 5,
+        "text": "What will be the pO2 and pCO2 in the atmospheric air compared to those in the alveolar air ? (i) pO2 lesser, pCO2 higher (ii) pO2 higher, pCO2 lesser (iii) pO2 higher, pCO2 higher (iv) pO2 lesser, pCO2 lesser",
+        "answer": "(ii) Atmospheric air has higher pO2 and lower pCO2 than alveolar air."
+      },
+      {
+        "number": 6,
+        "text": "Explain the process of inspiration under normal conditions.",
+        "answer": "During inspiration, the diaphragm contracts and flattens and external intercostal muscles raise the ribs and sternum. Thoracic volume increases, intrapulmonary pressure falls below atmospheric pressure, and air flows into the lungs."
+      },
+      {
+        "number": 7,
+        "text": "How is respiration regulated?",
+        "answer": "Respiration is regulated by respiratory centres in the medulla oblongata and pons. Chemosensitive areas respond mainly to CO2/H+ changes; peripheral receptors in carotid and aortic bodies detect changes in blood gases, especially low O2, and influence ventilation."
+      },
+      {
+        "number": 8,
+        "text": "What is the effect of pCO2 on oxygen transport?",
+        "answer": "An increase in pCO2 lowers blood pH and promotes oxygen unloading from haemoglobin (Bohr effect), shifting the oxyhaemoglobin dissociation curve to the right. This enhances oxygen delivery to metabolically active tissues."
+      },
+      {
+        "number": 9,
+        "text": "What happens to the respiratory process in a man going up a hill?",
+        "answer": "At high altitude, atmospheric and alveolar pO2 fall, so less oxygen diffuses into blood. Breathing rate and depth increase; over time, acclimatisation includes increased RBC production and other adjustments. Severe oxygen shortage can cause altitude sickness."
+      },
+      {
+        "number": 10,
+        "text": "What is the site of gaseous exchange in an insect?",
+        "answer": "In insects, gaseous exchange occurs through the tracheal system: air enters spiracles, passes through tracheae and fine tracheoles, and diffuses directly to/from tissues."
+      },
+      {
+        "number": 11,
+        "text": "Define oxygen dissociation curve. Can you suggest any reason for its sigmoidal pattern?",
+        "answer": "The oxygen dissociation curve shows the relationship between pO2 and percentage saturation of haemoglobin with oxygen. Its sigmoid shape results from cooperative binding: binding of one O2 molecule increases haemoglobin's affinity for the next O2 molecules."
+      },
+      {
+        "number": 12,
+        "text": "Have you heard about hypoxia? Try to gather information about it, and discuss with your friends.",
+        "answer": "Hypoxia is inadequate oxygen availability at tissue level. It may result from low environmental oxygen, impaired lung gas exchange, reduced oxygen-carrying capacity of blood or poor circulation. Symptoms and causes depend on type and severity; severe cases require urgent medical assessment."
+      },
+      {
+        "number": 13,
+        "text": "Distinguish between (a) IRV and ERV (b) Inspiratory capacity and Expiratory capacity. (c) Vital capacity and Total lung capacity.",
+        "answer": "(a) IRV is the extra air forcibly inhaled after normal inspiration; ERV is the extra air forcibly exhaled after normal expiration. (b) Inspiratory capacity = tidal volume + IRV; expiratory capacity = tidal volume + ERV. (c) Vital capacity = IRV + TV + ERV; total lung capacity = vital capacity + residual volume."
+      },
+      {
+        "number": 14,
+        "text": "What is Tidal volume? Find out the Tidal volume (approximate value) for a healthy human in an hour.",
+        "answer": "Tidal volume is the air inspired or expired during a normal quiet breath, about 500 mL in a typical adult. At 12 breaths/min, minute ventilation is about 6 L/min; over one hour, about 360 L of air is moved (500 mL × 12 × 60), assuming a constant rate."
+      }
+    ]
+  },
+  {
+    "chapter": "Body Fluids and Circulation",
+    "chapterNumber": 18,
+    "questions": [
+      {
+        "number": 1,
+        "text": "Name the components of the formed elements in the blood and mention one major function of each of them.",
+        "answer": "Formed elements: RBCs transport oxygen (and some CO2); WBCs defend against infection; platelets help blood clotting."
+      },
+      {
+        "number": 2,
+        "text": "What is the importance of plasma proteins?",
+        "answer": "Albumins maintain colloid osmotic pressure and help maintain blood volume; globulins include antibodies and transport proteins; fibrinogen is essential for clotting. Plasma proteins also buffer pH and transport substances."
+      },
+      {
+        "number": 3,
+        "text": "Match Column I with Column II : Column I Column II (a) Eosinophils (i) Coagulation (b) RBC (ii) Universal Recipient (c) AB Group (iii) Resist Infections (d) Platelets (iv) Contraction of Heart (e) Systole (v) Gas transport",
+        "answer": "(a) Eosinophils – (iii) resist infections (especially parasites/allergic responses); (b) RBC – (v) gas transport; (c) AB group – (ii) universal recipient for red-cell transfusion in the ABO system (with Rh compatibility considered); (d) Platelets – (i) coagulation; (e) Systole – (iv) contraction of heart (the supplied match wording is imprecise; systole is contraction, not the heart itself)."
+      },
+      {
+        "number": 4,
+        "text": "Why do we consider blood as a connective tissue?",
+        "answer": "Blood is a connective tissue because it has cells/cell fragments suspended in an extracellular matrix (plasma), transports materials between tissues and has a common mesodermal origin."
+      },
+      {
+        "number": 5,
+        "text": "What is the difference between lymph and blood?",
+        "answer": "Blood is a red fluid connective tissue with RBCs, WBCs and platelets suspended in plasma; it transports gases, nutrients, wastes and hormones. Lymph is a clear tissue fluid in lymphatic vessels, usually lacks RBCs and has fewer proteins; it returns tissue fluid to blood, transports absorbed fats and supports immunity."
+      },
+      {
+        "number": 6,
+        "text": "What is meant by double circulation? What is its significance?",
+        "answer": "Double circulation means blood passes through the heart twice in one complete circuit: pulmonary circulation (heart–lungs–heart) and systemic circulation (heart–body–heart). It keeps oxygenated and deoxygenated blood separate and supports efficient oxygen delivery at high metabolic rates."
+      },
+      {
+        "number": 7,
+        "text": "Write the differences between : (a) Blood and Lymph (b) Open and Closed system of circulation (c) Systole and Diastole (d) P-wave and T-wave",
+        "answer": "(a) Blood contains RBCs, WBCs and platelets in plasma; lymph is tissue fluid in lymph vessels, usually without RBCs and with lower protein. (b) Open circulation: fluid leaves vessels and bathes organs in sinuses; closed circulation: blood remains in vessels. (c) Systole is contraction; diastole is relaxation/filling. (d) ECG P wave represents atrial depolarisation; T wave represents ventricular repolarisation."
+      },
+      {
+        "number": 8,
+        "text": "Describe the evolutionary change in the pattern of heart among the vertebrates.",
+        "answer": "Fishes generally have a two-chambered heart and single circulation. Amphibians and most reptiles have a three-chambered heart with incomplete separation and some mixing (crocodilians have four chambers). Birds and mammals have four-chambered hearts with complete separation of pulmonary and systemic blood, supporting high metabolic activity."
+      },
+      {
+        "number": 9,
+        "text": "Why do we call our heart myogenic?",
+        "answer": "The human heart is myogenic because the impulse for contraction originates within the heart muscle, specifically at the sinoatrial (SA) node, rather than being initiated by a nerve."
+      },
+      {
+        "number": 10,
+        "text": "Sino-atrial node is called the pacemaker of our heart. Why?",
+        "answer": "The SA node spontaneously generates rhythmic electrical impulses at the highest rate in the heart, initiating each heartbeat and setting the pace for the rest of the cardiac conduction system."
+      },
+      {
+        "number": 11,
+        "text": "What is the significance of atrio-ventricular node and atrio-ventricular bundle in the functioning of heart?",
+        "answer": "The AV node receives the impulse from the atria and briefly delays it, allowing ventricles to fill. The AV bundle (bundle of His), bundle branches and Purkinje fibres conduct the impulse through ventricular myocardium for coordinated ventricular contraction."
+      },
+      {
+        "number": 12,
+        "text": "Define a cardiac cycle and the cardiac output.",
+        "answer": "A cardiac cycle is the sequence of atrial systole, ventricular systole and joint diastole during one heartbeat. Cardiac output is the volume of blood pumped by each ventricle per minute; at rest it is about 5 L/min (stroke volume × heart rate)."
+      },
+      {
+        "number": 13,
+        "text": "Explain heart sounds.",
+        "answer": "The first heart sound, 'lub', is caused mainly by closure of the atrioventricular valves at the start of ventricular systole. The second, 'dub', is caused by closure of the semilunar valves at the start of ventricular diastole."
+      },
+      {
+        "number": 14,
+        "text": "Draw a standard ECG and explain the different segments in it.",
+        "answer": "ECG: P wave = atrial depolarisation; QRS complex = ventricular depolarisation (atrial repolarisation is usually hidden within it); T wave = ventricular repolarisation. Draw baseline with labelled P, Q, R, S and T waves, PR interval and ST segment."
+      }
+    ]
+  },
+  {
+    "chapter": "Excretory Products and their Elimination",
+    "chapterNumber": 19,
+    "questions": [
+      {
+        "number": 1,
+        "text": "Define Glomerular Filtration Rate (GFR)",
+        "answer": "Glomerular filtration rate (GFR) is the volume of filtrate formed by both kidneys per minute. In a healthy adult it is approximately 125 mL/min, or about 180 L/day."
+      },
+      {
+        "number": 2,
+        "text": "Explain the autoregulatory mechanism of GFR.",
+        "answer": "GFR is regulated by autoregulatory mechanisms that maintain relatively stable renal blood flow and filtration despite changes in arterial pressure. The myogenic response constricts/dilates afferent arterioles; tubuloglomerular feedback by the macula densa adjusts afferent arteriolar tone and renin release according to NaCl delivery."
+      },
+      {
+        "number": 3,
+        "text": "Indicate whether the following statements are true or false : (a) Micturition is carried out by a reflex. (b) ADH helps in water elimination, making the urine hypotonic. (c) Protein-free fluid is filtered from blood plasma into the Bowman’s capsule. (d) Henle’s loop plays an important role in concentrating the urine. (e) Glucose is actively reabsorbed in the proximal convoluted tubule.",
+        "answer": "(a) True. (b) False: ADH increases water reabsorption and makes urine more concentrated. (c) True: normal glomerular filtrate is essentially protein-free. (d) True. (e) True: glucose is reabsorbed in the PCT mainly by Na+-glucose cotransport."
+      },
+      {
+        "number": 4,
+        "text": "Give a brief account of the counter current mechanism.",
+        "answer": "The loop of Henle and vasa recta establish a counter-current system. Filtrate flows in opposite directions in descending and ascending limbs; the ascending limb transports NaCl out but is relatively impermeable to water, while the descending limb is permeable to water. This creates a medullary osmotic gradient, maintained by vasa recta, allowing collecting ducts to reabsorb water and concentrate urine."
+      },
+      {
+        "number": 5,
+        "text": "Describe the role of liver, lungs and skin in excretion.",
+        "answer": "The liver converts toxic ammonia to urea, metabolises haemoglobin into bile pigments and excretes cholesterol and some drugs in bile. Lungs remove CO2 and water vapour. Skin removes water, salts and small amounts of urea through sweat."
+      },
+      {
+        "number": 6,
+        "text": "Explain micturition.",
+        "answer": "Micturition is the process of expelling urine from the urinary bladder. Stretch receptors signal the spinal micturition centre when the bladder fills; parasympathetic impulses contract the detrusor muscle and relax the internal sphincter. Voluntary control of the external sphincter allows urination."
+      },
+      {
+        "number": 7,
+        "text": "Match the items of column I with those of column II : Column I Column II (a) Ammonotelism (i) Birds (b) Bowman’s capsule (ii) Water reabsorption (c) Micturition (iii) Bony fish (d) Uricotelism (iv) Urinary bladder (d) ADH (v) Renal tubule EXCRETORY PRODUCTS AND THEIR ELIMINATION 301",
+        "answer": "(a) Ammonotelism – (iii) bony fish; (b) Bowman's capsule – (v) renal tubule; (c) Micturition – (iv) urinary bladder; (d) Uricotelism – (i) birds; (e) ADH – (ii) water reabsorption."
+      },
+      {
+        "number": 8,
+        "text": "What is meant by the term osmoregulation?",
+        "answer": "Osmoregulation is the regulation of water and solute concentrations in body fluids to maintain osmotic balance and a stable internal environment."
+      },
+      {
+        "number": 9,
+        "text": "Terrestrial animals are generally either ureotelic or uricotelic, not ammonotelic, why ?",
+        "answer": "Ammonia is highly toxic and requires large amounts of water for dilution and excretion. Terrestrial animals conserve water, so they convert ammonia into less toxic urea or poorly soluble uric acid, which can be excreted with less water."
+      },
+      {
+        "number": 10,
+        "text": "What is the significance of juxta glomerular apparatus (JGA) in kidney function?",
+        "answer": "The juxtaglomerular apparatus (JGA), formed by juxtaglomerular cells and macula densa, senses changes in renal blood flow/NaCl delivery and releases renin. It helps regulate GFR and blood pressure through the renin–angiotensin–aldosterone system."
+      },
+      {
+        "number": 11,
+        "text": "Name the following: (a) A chordate animal having flame cells as excretory structures (b) Cortical portions projecting between the medullary pyramids in the human kidney (c) A loop of capillary running parallel to the Henle’s loop.",
+        "answer": "(a) Amphioxus (Branchiostoma) is a chordate with protonephridia containing flame cells. (b) Renal columns (columns of Bertin). (c) Vasa recta."
+      },
+      {
+        "number": 12,
+        "text": "Fill in the gaps : (a) Ascending limb of Henle’s loop is _______ to water whereas the descending limb is _______ to it. (b) Reabsorption of water from distal parts of the tubules is facilitated by hormone _______. (c) Dialysis fluid contain all the constituents as in plasma except _______. (d) A healthy adult human excretes (on an average) _______ gm of urea/day.",
+        "answer": "(a) Ascending limb is impermeable to water; descending limb is permeable to water. (b) ADH (vasopressin). (c) Dialysis fluid lacks nitrogenous wastes (especially urea) and is formulated to have normal plasma concentrations of useful solutes. (d) About 25–30 g urea per day."
+      }
+    ]
+  },
+  {
+    "chapter": "Locomotion and Movement",
+    "chapterNumber": 20,
+    "questions": [
+      {
+        "number": 1,
+        "text": "Draw the diagram of a sarcomere of skeletal muscle showing different regions.",
+        "answer": "Draw a sarcomere between two Z-lines. Label Z-line, I-band, A-band, H-zone, M-line, thin actin filaments and thick myosin filaments. Thin filaments attach to Z-lines; thick filaments lie centrally."
+      },
+      {
+        "number": 2,
+        "text": "Define sliding filament theory of muscle contraction.",
+        "answer": "The sliding filament theory states that muscle contraction occurs when thin actin filaments slide inward over thick myosin filaments, shortening the sarcomere without shortening the filaments themselves."
+      },
+      {
+        "number": 3,
+        "text": "Describe the important steps in muscle contraction. 314 BIOLOGY",
+        "answer": "Motor neuron releases acetylcholine at the neuromuscular junction; the muscle membrane depolarises and the impulse travels along sarcolemma and T-tubules. Sarcoplasmic reticulum releases Ca2+, which binds troponin and shifts tropomyosin away from actin's binding sites. Myosin heads bind actin, perform power strokes using ATP, and pull actin inward. Repeated cross-bridge cycling shortens sarcomeres. Ca2+ is pumped back into the sarcoplasmic reticulum and the muscle relaxes."
+      },
+      {
+        "number": 4,
+        "text": "Write true or false. If false change the statement so that it is true. (a) Actin is present in thin filament (b) H-zone of striated muscle fibre represents both thick and thin filaments. (c) Human skeleton has 206 bones. (d) There are 11 pairs of ribs in man. (e) Sternum is present on the ventral side of the body.",
+        "answer": "(a) True. (b) False: H-zone contains only thick myosin filaments. (c) True. (d) False: humans have 12 pairs of ribs. (e) True."
+      },
+      {
+        "number": 5,
+        "text": "Write the difference between : (a) Actin and Myosin (b) Red and White muscles (c) Pectoral and Pelvic girdle",
+        "answer": "(a) Actin forms thin filaments; myosin forms thick filaments and has projecting heads that bind actin and hydrolyse ATP. (b) Red muscles have much myoglobin, mitochondria and capillaries and resist fatigue; white muscles have less myoglobin and fatigue more quickly but can contract rapidly. (c) Pectoral girdle attaches forelimbs and is relatively light/mobile; pelvic girdle attaches hindlimbs, is strong and bears body weight."
+      },
+      {
+        "number": 6,
+        "text": "Match Column I with Column II : Column I Column II (a) Smooth muscle (i) Myoglobin (b) Tropomyosin (ii) Thin filament (c) Red muscle (iii) Sutures (d) Skull (iv) Involuntary",
+        "answer": "(a) Smooth muscle – (iv) involuntary; (b) Tropomyosin – (ii) thin filament; (c) Red muscle – (i) myoglobin; (d) Skull – (iii) sutures."
+      },
+      {
+        "number": 7,
+        "text": "What are the different types of movements exhibited by the cells of human body?",
+        "answer": "Human cells exhibit amoeboid movement (e.g. leucocytes), ciliary movement (e.g. ciliated epithelium of respiratory tract/oviduct) and muscular movement (skeletal, smooth and cardiac muscles)."
+      },
+      {
+        "number": 8,
+        "text": "How do you distinguish between a skeletal muscle and a cardiac muscle?",
+        "answer": "Skeletal muscle is striated, voluntary, long cylindrical and multinucleate with peripheral nuclei; cardiac muscle is striated, involuntary, branched, usually has one central nucleus and intercalated discs, and contracts rhythmically."
+      },
+      {
+        "number": 9,
+        "text": "Name the type of joint between the following:- (a) atlas/axis (b) carpal/metacarpal of thumb (c) between phalanges (d) femur/acetabulum (e) between cranial bones (f) between pubic bones in the pelvic girdle",
+        "answer": "(a) Atlas/axis – pivot joint. (b) Carpal–metacarpal of thumb – saddle joint. (c) Between phalanges – hinge joint. (d) Femur/acetabulum – ball-and-socket joint. (e) Between cranial bones – fibrous suture (immovable). (f) Between pubic bones – cartilaginous symphysis."
+      },
+      {
+        "number": 10,
+        "text": "Fill in the blank spaces: (a) All mammals (except a few) have __________ cervical vertebra. (b) The number of phalanges in each limb of human is __________ (c) Thin filament of myofibril contains 2 ‘F’ actins and two other proteins namely __________ and __________. (d) In a muscle fibre Ca++ is stored in __________ (e) __________ and __________ pairs of ribs are called floating ribs. (f) The human cranium is made of __________ bones. NEURAL CONTROL AND COORDINATION 315",
+        "answer": "(a) Seven. (b) Fourteen phalanges in each hand/foot. (c) Tropomyosin and troponin. (d) Sarcoplasmic reticulum. (e) Eleventh and twelfth pairs. (f) Eight bones."
+      }
+    ]
+  },
+  {
+    "chapter": "Neural Control and Coordination",
+    "chapterNumber": 21,
+    "questions": [
+      {
+        "number": 1,
+        "text": "Briefly describe the structure of the following: (a) Brain (b) Eye (c) Ear",
+        "answer": "(a) Brain: forebrain (cerebrum, thalamus, hypothalamus), midbrain and hindbrain (pons, cerebellum, medulla); protected by meninges and skull. (b) Eye: three coats—sclera/cornea, choroid/ciliary body/iris and retina; lens, aqueous humour and vitreous humour focus light on retina. (c) Ear: external ear (pinna, auditory canal), middle ear (tympanic membrane and ossicles) and inner ear (cochlea, vestibular apparatus and semicircular canals)."
+      },
+      {
+        "number": 2,
+        "text": "Compare the following: (a) Central neural system (CNS) and Peripheral neural system (PNS) (b) Resting potential and action potential (c) Choroid and retina",
+        "answer": "(a) CNS consists of brain and spinal cord; PNS consists of cranial/spinal nerves and ganglia connecting CNS to body. (b) Resting potential is the polarised membrane state (inside negative); action potential is a rapid, temporary reversal of membrane potential caused by ion movement. (c) Choroid is a vascular, pigmented middle coat that nourishes the eye and absorbs stray light; retina is the light-sensitive inner layer containing rods and cones."
+      },
+      {
+        "number": 3,
+        "text": "Explain the following processes: (a) Polarisation of the membrane of a nerve fibre (b) Depolarisation of the membrane of a nerve fibre (c) Conduction of a nerve impulse along a nerve fibre (d) Transmission of a nerve impulse across a chemical synapse",
+        "answer": "(a) Polarisation: at rest, Na+/K+ pump and selective permeability maintain high Na+ outside and high K+ inside; inside is negative relative to outside. (b) Depolarisation: stimulus opens voltage-gated Na+ channels; Na+ enters and the inside becomes positive. (c) Local currents depolarise adjacent membrane, propagating the action potential along the axon; in myelinated fibres it jumps between nodes of Ranvier. (d) At a chemical synapse, an arriving impulse opens Ca2+ channels; Ca2+ triggers neurotransmitter release, which binds postsynaptic receptors and changes ion-channel activity."
+      },
+      {
+        "number": 4,
+        "text": "Draw labelled diagrams of the following: (a) Neuron (b) Brain (c) Eye (d) Ear",
+        "answer": "Neuron: label dendrites, cell body/cyton, nucleus, axon hillock, axon, myelin sheath, Schwann cell/neurilemma and nodes of Ranvier. Brain: label cerebrum, thalamus, hypothalamus, midbrain, pons, cerebellum and medulla. Eye: cornea, iris, pupil, lens, ciliary body, retina, choroid, sclera, optic nerve, aqueous and vitreous humour. Ear: pinna, auditory canal, tympanum, malleus, incus, stapes, cochlea, semicircular canals and auditory nerve."
+      },
+      {
+        "number": 5,
+        "text": "Write short notes on the following: (a) Neural coordination (b) Forebrain (c) Midbrain (d) Hindbrain (e) Retina (f) Ear ossicles (g) Cochlea (h) Organ of Corti (i) Synapse",
+        "answer": "(a) Neural coordination: integration and control of body activities through neurons and neurotransmitters. (b) Forebrain: cerebrum for sensory perception, voluntary movement, memory and intelligence; thalamus relays sensory input; hypothalamus regulates homeostasis and endocrine/autonomic functions. (c) Midbrain: visual/auditory reflex centres and conduction pathways. (d) Hindbrain: pons relays signals, cerebellum coordinates posture/balance/movement, medulla controls vital autonomic functions. (e) Retina: rods for dim light, cones for colour and detail. (f) Ear ossicles: malleus, incus and stapes transmit/amplify tympanic vibrations. (g) Cochlea: spiral, fluid-filled hearing organ. (h) Organ of Corti: sensory organ on basilar membrane with hair cells. (i) Synapse: junction between neurons or neuron and effector."
+      },
+      {
+        "number": 6,
+        "text": "Give a brief account of: (a) Mechanism of synaptic transmission (b) Mechanism of vision (c) Mechanism of hearing",
+        "answer": "(a) Synaptic transmission: action potential → Ca2+ entry at presynaptic terminal → vesicle fusion and neurotransmitter release → receptor binding postsynaptically → ion-channel change and postsynaptic response → transmitter removal. (b) Vision: light passes through cornea, pupil and lens to retina; photopigments in rods/cones change conformation, generating signals that pass through retinal neurons to optic nerve and visual cortex. (c) Hearing: sound vibrates tympanum and ossicles; stapes moves oval window, producing cochlear fluid waves; basilar membrane moves, bending hair-cell stereocilia in the organ of Corti; impulses travel via auditory nerve to brain."
+      },
+      {
+        "number": 7,
+        "text": "Answer briefly: (a) How do you perceive the colour of an object? (b) Which part of our body helps us in maintaining the body balance? (c) How does the eye regulate the amount of light that falls on the retina.",
+        "answer": "(a) Cones detect wavelengths of light; the brain compares signals from different cone types to perceive colour. (b) Vestibular apparatus of the inner ear (semicircular canals, utricle and saccule), with cerebellar integration, maintains balance. (c) Iris muscles change pupil diameter: circular muscles constrict it in bright light; radial muscles dilate it in dim light."
+      },
+      {
+        "number": 8,
+        "text": "Explain the following: (a) Role of Na+ in the generation of action potential. (b) Mechanism of generation of light-induced impulse in the retina. (c) Mechanism through which a sound produces a nerve impulse in the inner ear.",
+        "answer": "(a) Na+ influx through voltage-gated channels causes rapid depolarisation and the rising phase of an action potential. (b) Light changes retinal in photoreceptors, activating transducin and phosphodiesterase, lowering cGMP and closing cGMP-gated Na+/Ca2+ channels; the photoreceptor hyperpolarises and alters neurotransmitter release. (c) Cochlear hair-cell stereocilia bend with basilar membrane movement; mechanically gated channels open, hair cells depolarise, neurotransmitter is released and auditory nerve fibres fire."
+      },
+      {
+        "number": 9,
+        "text": "Differentiate between: (a) Myelinated and non-myelinated axons (b) Dendrites and axons (c) Rods and cones (d) Thalamus and Hypothalamus (e) Cerebrum and Cerebellum 330 BIOLOGY",
+        "answer": "(a) Myelinated axons have a myelin sheath and nodes of Ranvier; impulses conduct rapidly by saltatory conduction. Non-myelinated axons lack this sheath and conduct continuously, more slowly. (b) Dendrites receive signals and conduct toward the cell body; axons conduct away from it. (c) Rods are sensitive in dim light and do not mediate colour; cones work in bright light and mediate colour/high acuity. (d) Thalamus relays sensory information; hypothalamus regulates homeostasis, autonomic and endocrine functions. (e) Cerebrum supports higher cognition and voluntary action; cerebellum coordinates movement, posture and balance."
+      },
+      {
+        "number": 10,
+        "text": "Answer the following: (a) Which part of the ear determines the pitch of a sound? (b) Which part of the human brain is the most developed? (c) Which part of our central neural system acts as a master clock?",
+        "answer": "(a) Basilar membrane/organ of Corti: different regions respond to different frequencies; high frequencies near the base and low frequencies near the apex, allowing pitch discrimination. (b) Cerebrum. (c) Suprachiasmatic nucleus of the hypothalamus."
+      },
+      {
+        "number": 11,
+        "text": "The region of the vertebrate eye, where the optic nerve passes out of the retina, is called the (a) fovea (b) iris (c) blind spot (d) optic chaisma",
+        "answer": "(c) Blind spot (optic disc)."
+      },
+      {
+        "number": 12,
+        "text": "Distinguish between: (a) afferent neurons and efferent neurons (b) impulse conduction in a myelinated nerve fibre and unmyelinated nerve fibre (c) aqueous humor and vitreous humor (d) blind spot and yellow spot (f) cranial nerves and spinal nerves. CHEMICAL COORDINATION AND INTEGRATION 331",
+        "answer": "(a) Afferent neurons carry impulses from receptors to CNS; efferent neurons carry commands from CNS to effectors. (b) Myelinated fibres conduct by saltatory conduction between nodes and are faster; unmyelinated fibres conduct continuously and are slower. (c) Aqueous humour is watery fluid in the anterior eye chambers; vitreous humour is a gel filling the posterior cavity. (d) Blind spot lacks photoreceptors where optic nerve exits; yellow spot/fovea has dense cones and highest visual acuity. (f) Cranial nerves arise from brain (12 pairs); spinal nerves arise from spinal cord (31 pairs)."
+      }
+    ]
+  },
+  {
+    "chapter": "Chemical Coordination and Integration",
+    "chapterNumber": 22,
+    "questions": [
+      {
+        "number": 1,
+        "text": "Define the following: (a) Exocrine gland (b) Endocrine gland (c) Hormone",
+        "answer": "Exocrine gland: releases secretion through a duct onto a surface or into a cavity. Endocrine gland: ductless gland that releases hormones into blood/interstitial fluid. Hormone: a chemical messenger produced in small amounts by endocrine cells that regulates target cells with specific receptors."
+      },
+      {
+        "number": 2,
+        "text": "Diagrammatically indicate the location of the various endocrine glands in our body.",
+        "answer": "From head to trunk: pineal gland in brain; hypothalamus and pituitary at base of brain; thyroid in neck; parathyroids on posterior thyroid; thymus in upper chest; adrenal glands atop kidneys; pancreas in abdomen; testes in scrotum; ovaries in pelvic cavity. Also endocrine cells occur in heart, kidneys and gastrointestinal tract."
+      },
+      {
+        "number": 3,
+        "text": "List the hormones secreted by the following: (a) Hypothalamus (b) Pituitary (c) Thyroid (d) Parathyroid (e) Adrenal (f) Pancreas (g) Testis (h) Ovary (i) Thymus (j) Atrium (k) Kidney (l) G-I Tract",
+        "answer": "(a) Hypothalamus: releasing and inhibiting hormones (e.g. GnRH, TRH, CRH, GHRH, somatostatin, dopamine); also synthesises ADH and oxytocin. (b) Pituitary: GH, PRL, TSH, ACTH, FSH, LH, MSH; posterior pituitary releases ADH and oxytocin. (c) Thyroid: T4, T3, calcitonin. (d) Parathyroid: PTH. (e) Adrenal: cortex—cortisol, aldosterone, adrenal androgens; medulla—adrenaline and noradrenaline. (f) Pancreas: insulin, glucagon, somatostatin, pancreatic polypeptide. (g) Testis: testosterone and inhibin. (h) Ovary: estrogens, progesterone, inhibin, relaxin. (i) Thymus: thymosins. (j) Atrium: atrial natriuretic factor/peptide (ANF/ANP). (k) Kidney: erythropoietin, renin, calcitriol. (l) G-I tract: gastrin, secretin, CCK, GIP, motilin and related gut peptides."
+      },
+      {
+        "number": 4,
+        "text": "Fill in the blanks: Hormones Target gland (a) Hypothalamic hormones __________________ (b) Thyrotrophin (TSH) __________________ (c) Corticotrophin (ACTH) __________________ (d) Gonadotrophins (LH, FSH) __________________ (e) Melanotrophin (MSH) __________________",
+        "answer": "(a) Hypothalamic hormones → anterior pituitary. (b) TSH → thyroid gland. (c) ACTH → adrenal cortex. (d) LH and FSH → gonads (ovaries/testes). (e) MSH → melanocytes/pigment cells."
+      },
+      {
+        "number": 5,
+        "text": "Write short notes on the functions of the following hormones: (a) Parathyroid hormone (PTH) (b) Thyroid hormones (c) Thymosins (d) Androgens (e) Estrogens (f) Insulin and Glucagon",
+        "answer": "(a) PTH raises blood Ca2+ by promoting bone resorption, renal Ca2+ reabsorption and activation of vitamin D; it lowers phosphate reabsorption. (b) Thyroid hormones increase basal metabolic rate and support growth/development; calcitonin lowers blood Ca2+. (c) Thymosins promote T-lymphocyte development and immunity. (d) Androgens promote male reproductive organ development, spermatogenesis and secondary sexual characters. (e) Estrogens promote female reproductive organ development, secondary sexual characters and endometrial growth. (f) Insulin lowers blood glucose by promoting uptake/storage; glucagon raises it by stimulating glycogenolysis and gluconeogenesis."
+      },
+      {
+        "number": 6,
+        "text": "Give example(s) of: (a) Hyperglycemic hormone and hypoglycemic hormone (b) Hypercalcemic hormone (c) Gonadotrophic hormones (d) Progestational hormone (e) Blood pressure lowering hormone (f) Androgens and estrogens",
+        "answer": "(a) Hyperglycemic: glucagon; hypoglycemic: insulin. (b) PTH. (c) FSH and LH. (d) Progesterone. (e) ANF/ANP. (f) Androgens: testosterone; estrogens: estradiol."
+      },
+      {
+        "number": 7,
+        "text": "Which hormonal deficiency is responsible for the following: (a) Diabetes mellitus (b) Goitre (c) Cretinism",
+        "answer": "(a) Diabetes mellitus: insulin deficiency or ineffective insulin action (classically insulin deficiency in the NCERT context). (b) Goitre: commonly iodine deficiency causing reduced thyroid hormone synthesis and thyroid enlargement. (c) Cretinism (congenital hypothyroidism): deficiency of thyroid hormones during early development."
+      },
+      {
+        "number": 8,
+        "text": "Briefly mention the mechanism of action of FSH.",
+        "answer": "FSH binds to specific receptors on target cells (granulosa cells in ovarian follicles and Sertoli cells in testes). It activates intracellular signalling, commonly via cAMP, promoting follicular development and estrogen secretion in females and supporting spermatogenesis in males."
+      },
+      {
+        "number": 9,
+        "text": "Match the following: Column I Column II (a) T4 (i) Hypothalamus (b) PTH (ii) Thyroid (c) GnRH (iii) Pituitary (d) LH (iv) Parathyroid NOTE CHEMICAL COORDINATION AND INTEGRATION 345 NOTE NOTE",
+        "answer": "Matching: (a) T4 – (ii) Thyroid; (b) PTH – (iv) Parathyroid; (c) GnRH – (i) Hypothalamus; (d) LH – (iii) Pituitary."
+      }
+    ]
+  }
+]

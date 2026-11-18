@@ -1,0 +1,68 @@
+{
+  "totalQuestions": 6095,
+  "totalChapters": 200,
+  "banks": [
+    {
+      "id": "percentile",
+      "title": "99 Percentile Question Bank for JEE Main",
+      "description": "Broad JEE Main practice across Physics, Chemistry and Mathematics.",
+      "file": "/question-banks/percentile.json",
+      "subjects": 3,
+      "chapters": 85,
+      "questions": 3138,
+      "multipleChoice": 3093,
+      "numerical": 45,
+      "subjectNames": [
+        "Physics",
+        "Chemistry",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "must-do-april-2026",
+      "title": "Must Do PYQs · April 2026",
+      "description": "A focused April 2026 PYQ collection across all three JEE subjects.",
+      "file": "/question-banks/must-do-april-2026.json",
+      "subjects": 3,
+      "chapters": 84,
+      "questions": 1550,
+      "multipleChoice": 1280,
+      "numerical": 270,
+      "subjectNames": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ]
+    },
+    {
+      "id": "chemistry-pattern-2026",
+      "title": "Chemistry · JEE Main 2026 Pattern",
+      "description": "Organic, inorganic and physical chemistry pattern questions.",
+      "file": "/question-banks/chemistry-pattern-2026.json",
+      "subjects": 3,
+      "chapters": 24,
+      "questions": 1107,
+      "multipleChoice": 674,
+      "numerical": 433,
+      "subjectNames": [
+        "Chemistry",
+        "Chemistry",
+        "Chemistry"
+      ]
+    },
+    {
+      "id": "inorganic-selective",
+      "title": "Inorganic Chemistry · Selective Questions",
+      "description": "A focused inorganic chemistry revision set.",
+      "file": "/question-banks/inorganic-selective.json",
+      "subjects": 1,
+      "chapters": 7,
+      "questions": 300,
+      "multipleChoice": 300,
+      "numerical": 0,
+      "subjectNames": [
+        "Chemistry"
+      ]
+    }
+  ]
+}

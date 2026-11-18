@@ -1,0 +1,1762 @@
+[
+  {
+    "number": 1,
+    "text": "What is metabolism?",
+    "answer": "Metabolism is the sum total of all chemical reactions occurring in a living organism. It includes anabolism and catabolism.",
+    "chapter": "The Living World",
+    "chapterNumber": 1,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "What is consciousness in the biological sense?",
+    "answer": "It is the ability to sense the surroundings and respond to environmental stimuli; humans also show self-consciousness.",
+    "chapter": "The Living World",
+    "chapterNumber": 1,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "Why are growth and reproduction not defining features individually?",
+    "answer": "Some non-living things can increase in size by external accumulation, while some living organisms such as mules and sterile worker bees do not reproduce.",
+    "chapter": "The Living World",
+    "chapterNumber": 1,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is cellular organisation?",
+    "answer": "It is the organised arrangement of cells and their components that enables coordinated life functions.",
+    "chapter": "The Living World",
+    "chapterNumber": 1,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "Differentiate between taxonomy and systematics.",
+    "answer": "Taxonomy deals with identification, nomenclature and classification; systematics also considers evolutionary relationships among organisms.",
+    "chapter": "The Living World",
+    "chapterNumber": 1,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What is a taxon?",
+    "answer": "A taxon is a taxonomic unit at any rank, such as species, genus, family or order.",
+    "chapter": "The Living World",
+    "chapterNumber": 1,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "Why is a scientific name useful?",
+    "answer": "It provides a universally accepted name and avoids confusion caused by different local or common names.",
+    "chapter": "The Living World",
+    "chapterNumber": 1,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "What is binomial nomenclature?",
+    "answer": "A system in which each species is given a two-part name: the genus name followed by the specific epithet.",
+    "chapter": "The Living World",
+    "chapterNumber": 1,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is a taxonomic key?",
+    "answer": "A tool for identification that uses a sequence of contrasting characters, usually arranged in couplets.",
+    "chapter": "The Living World",
+    "chapterNumber": 1,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "Name two taxonomic aids and state their use.",
+    "answer": "Herbaria preserve pressed plant specimens for reference; museums preserve plant and animal specimens for study and identification.",
+    "chapter": "The Living World",
+    "chapterNumber": 1,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is the cell wall composition of fungi?",
+    "answer": "The fungal cell wall is mainly made of chitin and other polysaccharides.",
+    "chapter": "Biological Classification",
+    "chapterNumber": 2,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "Why are viruses considered obligate parasites?",
+    "answer": "They can reproduce only inside living host cells by using the host's cellular machinery.",
+    "chapter": "Biological Classification",
+    "chapterNumber": 2,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What are viroids?",
+    "answer": "Viroids are small, infectious agents made only of short, circular single-stranded RNA and lacking a protein coat.",
+    "chapter": "Biological Classification",
+    "chapterNumber": 2,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is the role of heterocysts in cyanobacteria?",
+    "answer": "Heterocysts are specialised cells that provide conditions for nitrogen fixation.",
+    "chapter": "Biological Classification",
+    "chapterNumber": 2,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "How do archaebacteria differ from eubacteria?",
+    "answer": "Archaebacteria have distinctive membrane lipids and cell-wall features and include extremophiles; eubacteria have the typical bacterial cell organisation.",
+    "chapter": "Biological Classification",
+    "chapterNumber": 2,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What are mycoplasmas?",
+    "answer": "They are very small prokaryotes that lack a cell wall and can survive without oxygen in some conditions.",
+    "chapter": "Biological Classification",
+    "chapterNumber": 2,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What is the main feature of diatoms?",
+    "answer": "Their cell walls form siliceous frustules with two overlapping halves.",
+    "chapter": "Biological Classification",
+    "chapterNumber": 2,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "How do slime moulds obtain nutrition?",
+    "answer": "They feed saprotrophically on decaying organic matter and may form plasmodia under suitable conditions.",
+    "chapter": "Biological Classification",
+    "chapterNumber": 2,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is a lichen?",
+    "answer": "A lichen is a symbiotic association between a fungus and a photosynthetic partner, usually an alga or cyanobacterium.",
+    "chapter": "Biological Classification",
+    "chapterNumber": 2,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "Why are fungi important decomposers?",
+    "answer": "They secrete enzymes that break down complex organic matter and recycle nutrients into ecosystems.",
+    "chapter": "Biological Classification",
+    "chapterNumber": 2,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is alternation of generations?",
+    "answer": "It is the life-cycle pattern in which a haploid gametophyte generation alternates with a diploid sporophyte generation.",
+    "chapter": "Plant Kingdom",
+    "chapterNumber": 3,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "Why are bryophytes called amphibians of the plant kingdom?",
+    "answer": "They are mainly terrestrial but require water for the motile male gametes to reach the egg.",
+    "chapter": "Plant Kingdom",
+    "chapterNumber": 3,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What is the dominant phase in bryophytes?",
+    "answer": "The gametophyte is the dominant, photosynthetic and independent phase.",
+    "chapter": "Plant Kingdom",
+    "chapterNumber": 3,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is heterospory?",
+    "answer": "Production of two kinds of spores: smaller microspores and larger megaspores.",
+    "chapter": "Plant Kingdom",
+    "chapterNumber": 3,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "Why is heterospory evolutionarily significant?",
+    "answer": "Retention of the megaspore and development of the female gametophyte within it represent steps toward seed habit.",
+    "chapter": "Plant Kingdom",
+    "chapterNumber": 3,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What is a prothallus?",
+    "answer": "It is the small, usually independent gametophyte of a pteridophyte such as a fern.",
+    "chapter": "Plant Kingdom",
+    "chapterNumber": 3,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "Name the two main groups of gymnosperms.",
+    "answer": "Cycadophyta and Coniferophyta are two major groups; Ginkgo and Gnetum are also gymnosperms.",
+    "chapter": "Plant Kingdom",
+    "chapterNumber": 3,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "Why are gymnosperm seeds called naked seeds?",
+    "answer": "Their ovules and seeds are not enclosed within an ovary or fruit.",
+    "chapter": "Plant Kingdom",
+    "chapterNumber": 3,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is the function of archegonia?",
+    "answer": "Archegonia are female sex organs that produce or contain the egg in many bryophytes, pteridophytes and gymnosperms.",
+    "chapter": "Plant Kingdom",
+    "chapterNumber": 3,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "How do algae contribute to aquatic ecosystems?",
+    "answer": "They are primary producers, release oxygen and form the base of many aquatic food webs.",
+    "chapter": "Plant Kingdom",
+    "chapterNumber": 3,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is the difference between radial and bilateral symmetry?",
+    "answer": "Radial symmetry allows division into similar halves through multiple planes around an axis; bilateral symmetry gives two mirror-image halves through one plane.",
+    "chapter": "Animal Kingdom",
+    "chapterNumber": 4,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "What is diploblastic organisation?",
+    "answer": "The body develops from two germ layers, ectoderm and endoderm, with mesoglea between them in many animals.",
+    "chapter": "Animal Kingdom",
+    "chapterNumber": 4,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What is triploblastic organisation?",
+    "answer": "The body develops from ectoderm, mesoderm and endoderm.",
+    "chapter": "Animal Kingdom",
+    "chapterNumber": 4,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is a coelom?",
+    "answer": "A coelom is a fluid-filled body cavity completely lined by mesoderm.",
+    "chapter": "Animal Kingdom",
+    "chapterNumber": 4,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "Differentiate between acoelomate and pseudocoelomate.",
+    "answer": "Acoelomates lack a body cavity; pseudocoelomates have a cavity not completely lined by mesoderm.",
+    "chapter": "Animal Kingdom",
+    "chapterNumber": 4,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What is metamerism?",
+    "answer": "It is the serial repetition of body segments along the longitudinal axis.",
+    "chapter": "Animal Kingdom",
+    "chapterNumber": 4,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What is notochord?",
+    "answer": "A flexible, rod-like supporting structure present at least during some stage of development in chordates.",
+    "chapter": "Animal Kingdom",
+    "chapterNumber": 4,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "Name the three major characters of chordates.",
+    "answer": "Notochord, dorsal hollow nerve cord and paired pharyngeal gill slits at some stage of life.",
+    "chapter": "Animal Kingdom",
+    "chapterNumber": 4,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is open circulatory system?",
+    "answer": "Blood or haemolymph is not always confined to vessels and directly bathes organs in body spaces.",
+    "chapter": "Animal Kingdom",
+    "chapterNumber": 4,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "Why are echinoderms called spiny-skinned animals?",
+    "answer": "Many have a calcareous endoskeleton with spines on the body surface.",
+    "chapter": "Animal Kingdom",
+    "chapterNumber": 4,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is phyllotaxy?",
+    "answer": "Phyllotaxy is the arrangement of leaves on the stem or branches.",
+    "chapter": "Morphology of Flowering Plants",
+    "chapterNumber": 5,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "Differentiate between racemose and cymose inflorescence.",
+    "answer": "In racemose inflorescence the main axis continues to grow and flowers are usually younger toward the apex; in cymose it ends in a flower and older flowers are toward the apex.",
+    "chapter": "Morphology of Flowering Plants",
+    "chapterNumber": 5,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What is aestivation?",
+    "answer": "Aestivation is the arrangement of sepals or petals in a floral bud with respect to other members of the same whorl.",
+    "chapter": "Morphology of Flowering Plants",
+    "chapterNumber": 5,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is placentation?",
+    "answer": "Placentation is the arrangement of ovules within the ovary.",
+    "chapter": "Morphology of Flowering Plants",
+    "chapterNumber": 5,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "Name four types of placentation.",
+    "answer": "Marginal, axile, parietal and free-central are four types; basal is another type.",
+    "chapter": "Morphology of Flowering Plants",
+    "chapterNumber": 5,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What is a perigynous flower?",
+    "answer": "The gynoecium is situated in the centre and other floral parts arise from the rim of a cup-shaped thalamus around it.",
+    "chapter": "Morphology of Flowering Plants",
+    "chapterNumber": 5,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What is epipetalous condition?",
+    "answer": "Stamens are attached to petals, as in brinjal.",
+    "chapter": "Morphology of Flowering Plants",
+    "chapterNumber": 5,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "Differentiate between simple and compound leaves.",
+    "answer": "A simple leaf has an undivided lamina; a compound leaf has the lamina divided into leaflets.",
+    "chapter": "Morphology of Flowering Plants",
+    "chapterNumber": 5,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is a false fruit?",
+    "answer": "A fruit in which parts other than the ovary, such as the thalamus, also contribute to fruit formation; apple is an example.",
+    "chapter": "Morphology of Flowering Plants",
+    "chapterNumber": 5,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "What is parthenocarpy?",
+    "answer": "Development of fruit without fertilisation, often producing seedless fruits.",
+    "chapter": "Morphology of Flowering Plants",
+    "chapterNumber": 5,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is the function of the endodermis in roots?",
+    "answer": "The endodermis regulates movement of water and dissolved minerals into the vascular cylinder; its Casparian strips restrict apoplastic flow.",
+    "chapter": "Anatomy of Flowering Plants",
+    "chapterNumber": 6,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "Differentiate between xylem and phloem.",
+    "answer": "Xylem mainly conducts water and minerals and also provides support; phloem translocates sugars and other organic solutes.",
+    "chapter": "Anatomy of Flowering Plants",
+    "chapterNumber": 6,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What are stomata?",
+    "answer": "Stomata are pores in the epidermis, usually bordered by guard cells, that regulate gas exchange and water loss.",
+    "chapter": "Anatomy of Flowering Plants",
+    "chapterNumber": 6,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is the role of companion cells?",
+    "answer": "Companion cells support sieve-tube elements metabolically and help in phloem loading and unloading.",
+    "chapter": "Anatomy of Flowering Plants",
+    "chapterNumber": 6,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "What is heartwood?",
+    "answer": "Heartwood is the older, inner, usually non-conducting secondary xylem that often becomes dark due to deposits.",
+    "chapter": "Anatomy of Flowering Plants",
+    "chapterNumber": 6,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What is sapwood?",
+    "answer": "Sapwood is the younger, outer, functional secondary xylem that conducts water and minerals.",
+    "chapter": "Anatomy of Flowering Plants",
+    "chapterNumber": 6,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What is secondary growth?",
+    "answer": "It is the increase in girth of stems and roots due to the activity of lateral meristems, especially vascular and cork cambium.",
+    "chapter": "Anatomy of Flowering Plants",
+    "chapterNumber": 6,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "What is the Casparian strip made of?",
+    "answer": "It is a band of suberin, often with lignin, deposited in the radial and transverse walls of endodermal cells.",
+    "chapter": "Anatomy of Flowering Plants",
+    "chapterNumber": 6,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is dorsiventral leaf anatomy?",
+    "answer": "A leaf anatomy with distinct upper and lower surfaces, commonly with palisade mesophyll above and spongy mesophyll below.",
+    "chapter": "Anatomy of Flowering Plants",
+    "chapterNumber": 6,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "What is the main function of cork?",
+    "answer": "Cork forms a protective outer covering; its suberised dead cells reduce water loss and protect internal tissues.",
+    "chapter": "Anatomy of Flowering Plants",
+    "chapterNumber": 6,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is epithelial tissue?",
+    "answer": "Epithelial tissue covers body surfaces, lines cavities and forms glands; its cells are closely packed with little intercellular material.",
+    "chapter": "Structural Organisation in Animals",
+    "chapterNumber": 7,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "Where is simple squamous epithelium found?",
+    "answer": "It lines alveoli and blood vessels, where thinness supports diffusion and exchange.",
+    "chapter": "Structural Organisation in Animals",
+    "chapterNumber": 7,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What is the function of ciliated epithelium?",
+    "answer": "Cilia move materials such as mucus or the ovum along the epithelial surface.",
+    "chapter": "Structural Organisation in Animals",
+    "chapterNumber": 7,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "Differentiate between tendon and ligament.",
+    "answer": "Tendons connect muscle to bone; ligaments connect bone to bone and help stabilise joints.",
+    "chapter": "Structural Organisation in Animals",
+    "chapterNumber": 7,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "What is areolar connective tissue?",
+    "answer": "A loose connective tissue that fills spaces, supports internal organs and helps in tissue repair.",
+    "chapter": "Structural Organisation in Animals",
+    "chapterNumber": 7,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What is the function of adipose tissue?",
+    "answer": "It stores fat, provides insulation and cushions organs.",
+    "chapter": "Structural Organisation in Animals",
+    "chapterNumber": 7,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What is a sarcomere?",
+    "answer": "The sarcomere is the segment between two successive Z-lines and is the basic contractile unit of striated muscle.",
+    "chapter": "Structural Organisation in Animals",
+    "chapterNumber": 7,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "What are intercalated discs?",
+    "answer": "They are specialised junctions between cardiac muscle cells that provide mechanical and electrical coupling.",
+    "chapter": "Structural Organisation in Animals",
+    "chapterNumber": 7,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is the function of the earthworm clitellum?",
+    "answer": "It secretes material that forms a cocoon for eggs during reproduction.",
+    "chapter": "Structural Organisation in Animals",
+    "chapterNumber": 7,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "How does cockroach respiration occur?",
+    "answer": "Air enters through spiracles and travels through a branching tracheal system directly to tissues.",
+    "chapter": "Structural Organisation in Animals",
+    "chapterNumber": 7,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "Why are mitochondria called semi-autonomous organelles?",
+    "answer": "They have their own DNA and ribosomes and can replicate, but depend on nuclear genes for many proteins.",
+    "chapter": "Cell: The Unit of Life",
+    "chapterNumber": 8,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "What is the function of the nucleolus?",
+    "answer": "It synthesises rRNA and participates in assembly of ribosomal subunits.",
+    "chapter": "Cell: The Unit of Life",
+    "chapterNumber": 8,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "Differentiate between rough and smooth endoplasmic reticulum.",
+    "answer": "Rough ER bears ribosomes and synthesises many proteins; smooth ER lacks ribosomes and is involved in lipid synthesis and detoxification.",
+    "chapter": "Cell: The Unit of Life",
+    "chapterNumber": 8,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is the fluid mosaic model?",
+    "answer": "It describes the plasma membrane as a dynamic phospholipid bilayer with proteins embedded in or associated with it.",
+    "chapter": "Cell: The Unit of Life",
+    "chapterNumber": 8,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "What is the function of lysosomes?",
+    "answer": "Lysosomes contain hydrolytic enzymes that digest macromolecules and worn-out cell components.",
+    "chapter": "Cell: The Unit of Life",
+    "chapterNumber": 8,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "Why are ribosomes called protein factories?",
+    "answer": "They translate mRNA and catalyse peptide-bond formation during protein synthesis.",
+    "chapter": "Cell: The Unit of Life",
+    "chapterNumber": 8,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What is the role of the Golgi apparatus?",
+    "answer": "It modifies, sorts and packages proteins and lipids for secretion or delivery to cellular destinations.",
+    "chapter": "Cell: The Unit of Life",
+    "chapterNumber": 8,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "What is a plasmodesma?",
+    "answer": "A plasmodesma is a cytoplasmic channel through plant cell walls that connects adjacent cells.",
+    "chapter": "Cell: The Unit of Life",
+    "chapterNumber": 8,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is the function of centrioles?",
+    "answer": "They help organise microtubules and form the spindle apparatus in many animal cells.",
+    "chapter": "Cell: The Unit of Life",
+    "chapterNumber": 8,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "What is the difference between prokaryotic and eukaryotic ribosomes?",
+    "answer": "Prokaryotic cytoplasmic ribosomes are 70S; eukaryotic cytoplasmic ribosomes are 80S.",
+    "chapter": "Cell: The Unit of Life",
+    "chapterNumber": 8,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is a peptide bond?",
+    "answer": "A peptide bond is the covalent bond formed between the carboxyl group of one amino acid and the amino group of another, with loss of water.",
+    "chapter": "Biomolecules",
+    "chapterNumber": 9,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "What are essential amino acids?",
+    "answer": "They are amino acids that the body cannot synthesise in adequate amounts and must obtain from the diet.",
+    "chapter": "Biomolecules",
+    "chapterNumber": 9,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What is denaturation of protein?",
+    "answer": "Denaturation is disruption of a protein's native conformation, often by heat or chemicals, causing loss of biological activity without usually breaking peptide bonds.",
+    "chapter": "Biomolecules",
+    "chapterNumber": 9,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is a glycosidic bond?",
+    "answer": "It is a covalent bond linking sugar units, formed through a condensation reaction.",
+    "chapter": "Biomolecules",
+    "chapterNumber": 9,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "Differentiate between starch and cellulose.",
+    "answer": "Starch is a storage polysaccharide of α-glucose; cellulose is a structural polysaccharide of β-glucose in plant cell walls.",
+    "chapter": "Biomolecules",
+    "chapterNumber": 9,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What is the function of enzymes?",
+    "answer": "Enzymes act as biological catalysts that lower activation energy and increase reaction rates without being consumed.",
+    "chapter": "Biomolecules",
+    "chapterNumber": 9,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What is a nucleotide made of?",
+    "answer": "A nitrogenous base, a pentose sugar and one or more phosphate groups.",
+    "chapter": "Biomolecules",
+    "chapterNumber": 9,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "Differentiate between DNA and RNA.",
+    "answer": "DNA usually contains deoxyribose and thymine and is commonly double-stranded; RNA contains ribose and uracil and is commonly single-stranded.",
+    "chapter": "Biomolecules",
+    "chapterNumber": 9,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is an enzyme active site?",
+    "answer": "It is the specific region of an enzyme where substrate binds and catalysis occurs.",
+    "chapter": "Biomolecules",
+    "chapterNumber": 9,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "Why are lipids not considered true polymers?",
+    "answer": "Most lipids are not made of long chains of repeating monomer units, even though they are large cellular biomolecules.",
+    "chapter": "Biomolecules",
+    "chapterNumber": 9,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is the G0 phase?",
+    "answer": "G0 is a quiescent state in which cells exit the active cell cycle and stop dividing, temporarily or permanently.",
+    "chapter": "Cell Cycle and Cell Division",
+    "chapterNumber": 10,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "What occurs during S phase?",
+    "answer": "DNA replication occurs and each chromosome is duplicated to form two sister chromatids.",
+    "chapter": "Cell Cycle and Cell Division",
+    "chapterNumber": 10,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What is the significance of mitosis?",
+    "answer": "Mitosis enables growth, tissue repair and asexual reproduction while maintaining chromosome number in daughter cells.",
+    "chapter": "Cell Cycle and Cell Division",
+    "chapterNumber": 10,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is synapsis?",
+    "answer": "Synapsis is pairing of homologous chromosomes during prophase I of meiosis.",
+    "chapter": "Cell Cycle and Cell Division",
+    "chapterNumber": 10,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "What is crossing over?",
+    "answer": "It is exchange of corresponding DNA segments between non-sister chromatids of homologous chromosomes during pachytene of prophase I.",
+    "chapter": "Cell Cycle and Cell Division",
+    "chapterNumber": 10,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "Why is meiosis called reduction division?",
+    "answer": "It reduces the chromosome number from diploid to haploid in the daughter cells.",
+    "chapter": "Cell Cycle and Cell Division",
+    "chapterNumber": 10,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What separates during anaphase I?",
+    "answer": "Homologous chromosomes separate and move to opposite poles; sister chromatids remain joined.",
+    "chapter": "Cell Cycle and Cell Division",
+    "chapterNumber": 10,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "What separates during anaphase II?",
+    "answer": "Centromeres divide and sister chromatids separate to opposite poles.",
+    "chapter": "Cell Cycle and Cell Division",
+    "chapterNumber": 10,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is cytokinesis?",
+    "answer": "Cytokinesis is division of the cytoplasm to form separate daughter cells.",
+    "chapter": "Cell Cycle and Cell Division",
+    "chapterNumber": 10,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "How does plant cytokinesis differ from animal cytokinesis?",
+    "answer": "Plant cells form a cell plate that develops into a new wall; animal cells divide by a cleavage furrow.",
+    "chapter": "Cell Cycle and Cell Division",
+    "chapterNumber": 10,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is water potential?",
+    "answer": "Water potential is the potential energy of water relative to pure water under standard conditions; water moves from higher to lower water potential.",
+    "chapter": "Transport in Plants",
+    "chapterNumber": 11,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "What is osmosis?",
+    "answer": "Osmosis is the movement of water across a selectively permeable membrane from higher water potential to lower water potential.",
+    "chapter": "Transport in Plants",
+    "chapterNumber": 11,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What is plasmolysis?",
+    "answer": "It is shrinkage of the protoplast away from the cell wall when a plant cell loses water in a hypertonic solution.",
+    "chapter": "Transport in Plants",
+    "chapterNumber": 11,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is root pressure?",
+    "answer": "Root pressure is positive pressure developed in roots due to active ion absorption and osmotic water entry into xylem.",
+    "chapter": "Transport in Plants",
+    "chapterNumber": 11,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "What is cohesion-tension theory?",
+    "answer": "It explains ascent of sap through transpiration-generated tension, aided by cohesion between water molecules and adhesion to xylem walls.",
+    "chapter": "Transport in Plants",
+    "chapterNumber": 11,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What is transpiration?",
+    "answer": "Transpiration is loss of water vapour from aerial parts of plants, mainly through stomata.",
+    "chapter": "Transport in Plants",
+    "chapterNumber": 11,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What is guttation?",
+    "answer": "Guttation is the exudation of liquid water droplets from leaf margins through hydathodes, usually at night or early morning.",
+    "chapter": "Transport in Plants",
+    "chapterNumber": 11,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "What is apoplast pathway?",
+    "answer": "Water moves through cell walls and intercellular spaces without crossing plasma membranes at every cell.",
+    "chapter": "Transport in Plants",
+    "chapterNumber": 11,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is symplast pathway?",
+    "answer": "Water moves through the cytoplasm of cells connected by plasmodesmata.",
+    "chapter": "Transport in Plants",
+    "chapterNumber": 11,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "What is pressure-flow hypothesis?",
+    "answer": "It explains phloem translocation by osmotic pressure differences created by sugar loading at sources and unloading at sinks.",
+    "chapter": "Transport in Plants",
+    "chapterNumber": 11,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is hydroponics?",
+    "answer": "Hydroponics is growing plants in a nutrient solution without soil; it can be used to identify essential mineral elements.",
+    "chapter": "Mineral Nutrition",
+    "chapterNumber": 12,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "What is a macronutrient?",
+    "answer": "A mineral element required by plants in relatively large quantities, such as nitrogen, phosphorus or potassium.",
+    "chapter": "Mineral Nutrition",
+    "chapterNumber": 12,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What is a micronutrient?",
+    "answer": "A mineral element required in trace amounts, such as iron, manganese, zinc, copper, boron, molybdenum, chlorine or nickel.",
+    "chapter": "Mineral Nutrition",
+    "chapterNumber": 12,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is chlorosis?",
+    "answer": "Chlorosis is yellowing of leaves due to reduced chlorophyll, often caused by deficiency of nitrogen, magnesium or iron.",
+    "chapter": "Mineral Nutrition",
+    "chapterNumber": 12,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "Why is nitrogen important in plants?",
+    "answer": "Nitrogen is a component of amino acids, proteins, nucleic acids, chlorophyll and many coenzymes.",
+    "chapter": "Mineral Nutrition",
+    "chapterNumber": 12,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What is biological nitrogen fixation?",
+    "answer": "It is conversion of atmospheric nitrogen gas into ammonia or related biologically usable forms by certain prokaryotes.",
+    "chapter": "Mineral Nutrition",
+    "chapterNumber": 12,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What is the role of leghemoglobin in root nodules?",
+    "answer": "It binds oxygen and maintains a low free-oxygen concentration that protects nitrogenase while supplying oxygen for respiration.",
+    "chapter": "Mineral Nutrition",
+    "chapterNumber": 12,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "What is nitrification?",
+    "answer": "It is microbial oxidation of ammonia/ammonium to nitrite and then nitrate in soil.",
+    "chapter": "Mineral Nutrition",
+    "chapterNumber": 12,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is ammonification?",
+    "answer": "It is conversion of organic nitrogen in dead matter and wastes into ammonia/ammonium by decomposers.",
+    "chapter": "Mineral Nutrition",
+    "chapterNumber": 12,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "What is the role of mycorrhiza?",
+    "answer": "It is a mutualistic association between fungi and plant roots that improves uptake of minerals, especially phosphate, and often water.",
+    "chapter": "Mineral Nutrition",
+    "chapterNumber": 12,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is the site of the light reaction?",
+    "answer": "The light reactions occur on the thylakoid membranes of chloroplasts.",
+    "chapter": "Photosynthesis in Higher Plants",
+    "chapterNumber": 13,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "What is photolysis of water?",
+    "answer": "It is light-driven splitting of water at photosystem II, releasing electrons, protons and molecular oxygen.",
+    "chapter": "Photosynthesis in Higher Plants",
+    "chapterNumber": 13,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What is the role of RuBisCO?",
+    "answer": "RuBisCO catalyses carboxylation of RuBP in the Calvin cycle and can also catalyse oxygenation, initiating photorespiration.",
+    "chapter": "Photosynthesis in Higher Plants",
+    "chapterNumber": 13,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is the first stable product of the Calvin cycle?",
+    "answer": "3-phosphoglycerate (3-PGA), a three-carbon compound.",
+    "chapter": "Photosynthesis in Higher Plants",
+    "chapterNumber": 13,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "What is photorespiration?",
+    "answer": "It is a process initiated when RuBisCO oxygenates RuBP, leading to consumption of energy and release of CO2 without sugar production.",
+    "chapter": "Photosynthesis in Higher Plants",
+    "chapterNumber": 13,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "Why are C4 plants efficient in hot climates?",
+    "answer": "They concentrate CO2 around RuBisCO, reducing photorespiration and maintaining photosynthesis under high temperature and light.",
+    "chapter": "Photosynthesis in Higher Plants",
+    "chapterNumber": 13,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What is the role of NADPH in photosynthesis?",
+    "answer": "NADPH supplies reducing power for reduction of 3-PGA-derived intermediates during the Calvin cycle.",
+    "chapter": "Photosynthesis in Higher Plants",
+    "chapterNumber": 13,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "Differentiate between PSI and PSII reaction centres.",
+    "answer": "PSI has P700 as its reaction-centre chlorophyll a; PSII has P680.",
+    "chapter": "Photosynthesis in Higher Plants",
+    "chapterNumber": 13,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is the compensation point?",
+    "answer": "It is the light intensity or CO2 level at which photosynthetic CO2 uptake equals respiratory CO2 release.",
+    "chapter": "Photosynthesis in Higher Plants",
+    "chapterNumber": 13,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "What factors affect photosynthesis?",
+    "answer": "Light intensity and quality, CO2 concentration, temperature, water availability, chlorophyll content and leaf characteristics.",
+    "chapter": "Photosynthesis in Higher Plants",
+    "chapterNumber": 13,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "Where does glycolysis occur?",
+    "answer": "Glycolysis occurs in the cytosol of the cell.",
+    "chapter": "Respiration in Plants",
+    "chapterNumber": 14,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "What is the net ATP gain in glycolysis per glucose?",
+    "answer": "The net gain is 2 ATP molecules per glucose, along with 2 NADH and 2 pyruvate.",
+    "chapter": "Respiration in Plants",
+    "chapterNumber": 14,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What is oxidative decarboxylation of pyruvate?",
+    "answer": "It is conversion of pyruvate to acetyl-CoA in the mitochondrial matrix, releasing CO2 and producing NADH.",
+    "chapter": "Respiration in Plants",
+    "chapterNumber": 14,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is substrate-level phosphorylation?",
+    "answer": "It is direct synthesis of ATP or GTP by transfer of a phosphate group from a high-energy substrate to ADP or GDP.",
+    "chapter": "Respiration in Plants",
+    "chapterNumber": 14,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "Why is oxygen essential for aerobic respiration?",
+    "answer": "Oxygen accepts electrons at the end of the electron transport chain, allowing continued oxidation of NADH and FADH2.",
+    "chapter": "Respiration in Plants",
+    "chapterNumber": 14,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What is fermentation?",
+    "answer": "Fermentation is anaerobic conversion of organic substrates that regenerates NAD+ and yields little ATP, for example ethanol or lactate formation.",
+    "chapter": "Respiration in Plants",
+    "chapterNumber": 14,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What is the role of NAD+?",
+    "answer": "NAD+ accepts electrons and hydrogen during oxidation reactions and is reduced to NADH.",
+    "chapter": "Respiration in Plants",
+    "chapterNumber": 14,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "What is respiratory quotient of carbohydrates?",
+    "answer": "It is approximately 1 because the volume of CO2 released equals the volume of O2 consumed for complete oxidation of carbohydrate.",
+    "chapter": "Respiration in Plants",
+    "chapterNumber": 14,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "Why is respiration called an amphibolic pathway?",
+    "answer": "It participates in both breakdown of molecules for energy and supply of intermediates for biosynthesis.",
+    "chapter": "Respiration in Plants",
+    "chapterNumber": 14,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "Where is the electron transport chain located in eukaryotic cells?",
+    "answer": "It is located in the inner mitochondrial membrane.",
+    "chapter": "Respiration in Plants",
+    "chapterNumber": 14,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is a plant growth regulator?",
+    "answer": "A plant growth regulator is an organic substance, natural or synthetic, that modifies growth and development at low concentrations.",
+    "chapter": "Plant Growth and Development",
+    "chapterNumber": 15,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "Which hormone promotes apical dominance?",
+    "answer": "Auxin produced in the shoot apex generally promotes apical dominance by suppressing the growth of lateral buds.",
+    "chapter": "Plant Growth and Development",
+    "chapterNumber": 15,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "Which hormone promotes cell division?",
+    "answer": "Cytokinins promote cell division and also delay leaf senescence.",
+    "chapter": "Plant Growth and Development",
+    "chapterNumber": 15,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is bolting?",
+    "answer": "Bolting is rapid elongation of the stem before flowering, often promoted by gibberellins.",
+    "chapter": "Plant Growth and Development",
+    "chapterNumber": 15,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "Which plant hormone promotes fruit ripening?",
+    "answer": "Ethylene promotes fruit ripening and several senescence-related responses.",
+    "chapter": "Plant Growth and Development",
+    "chapterNumber": 15,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What is seed dormancy?",
+    "answer": "Seed dormancy is a condition in which a viable seed does not germinate even under otherwise favourable conditions.",
+    "chapter": "Plant Growth and Development",
+    "chapterNumber": 15,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What is apical meristem activity responsible for?",
+    "answer": "It produces primary tissues and increases the length of roots and shoots.",
+    "chapter": "Plant Growth and Development",
+    "chapterNumber": 15,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "What is the role of gibberellins in seed germination?",
+    "answer": "Gibberellins stimulate enzyme production, including amylases in cereal grains, mobilising stored food for the embryo.",
+    "chapter": "Plant Growth and Development",
+    "chapterNumber": 15,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is senescence in plants?",
+    "answer": "Senescence is the programmed ageing process involving changes that lead to deterioration of cells, tissues or organs.",
+    "chapter": "Plant Growth and Development",
+    "chapterNumber": 15,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "What is a short-day plant?",
+    "answer": "A short-day plant flowers when the uninterrupted dark period exceeds a species-specific critical duration.",
+    "chapter": "Plant Growth and Development",
+    "chapterNumber": 15,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is peristalsis?",
+    "answer": "Peristalsis is coordinated wave-like contraction and relaxation of gut smooth muscle that propels contents along the digestive tract.",
+    "chapter": "Digestion and Absorption",
+    "chapterNumber": 16,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "What is the function of salivary amylase?",
+    "answer": "It begins carbohydrate digestion by hydrolysing starch into smaller sugars, including maltose and dextrins.",
+    "chapter": "Digestion and Absorption",
+    "chapterNumber": 16,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What is the role of mucus in the stomach?",
+    "answer": "Mucus and bicarbonate protect the gastric mucosa from acid and digestive enzymes.",
+    "chapter": "Digestion and Absorption",
+    "chapterNumber": 16,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "Where is bile produced and stored?",
+    "answer": "Bile is produced by the liver and stored and concentrated in the gall bladder.",
+    "chapter": "Digestion and Absorption",
+    "chapterNumber": 16,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "What is the function of enterokinase?",
+    "answer": "Enteropeptidase on the intestinal mucosa activates trypsinogen to trypsin.",
+    "chapter": "Digestion and Absorption",
+    "chapterNumber": 16,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What is the function of lacteals?",
+    "answer": "Lacteals are lymphatic capillaries in intestinal villi that absorb dietary lipids packaged into chylomicrons.",
+    "chapter": "Digestion and Absorption",
+    "chapterNumber": 16,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What is the role of villi and microvilli?",
+    "answer": "They greatly increase the surface area of the small intestine for efficient nutrient absorption.",
+    "chapter": "Digestion and Absorption",
+    "chapterNumber": 16,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "What is the end product of protein digestion?",
+    "answer": "Proteins are ultimately digested into amino acids, with some dipeptides and tripeptides also absorbed.",
+    "chapter": "Digestion and Absorption",
+    "chapterNumber": 16,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is the function of the large intestine?",
+    "answer": "It absorbs water and electrolytes and helps form and store faeces.",
+    "chapter": "Digestion and Absorption",
+    "chapterNumber": 16,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "What is emulsification of fats?",
+    "answer": "It is the breaking of large fat globules into small droplets by bile salts, increasing surface area for lipase.",
+    "chapter": "Digestion and Absorption",
+    "chapterNumber": 16,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is the normal tidal volume of an adult at rest?",
+    "answer": "It is approximately 500 mL of air per normal quiet breath in a typical adult.",
+    "chapter": "Breathing and Exchange of Gases",
+    "chapterNumber": 17,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "What is residual volume?",
+    "answer": "Residual volume is the air remaining in the lungs after forceful expiration; it prevents complete collapse of the lungs.",
+    "chapter": "Breathing and Exchange of Gases",
+    "chapterNumber": 17,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What is inspiratory reserve volume?",
+    "answer": "It is the additional air that can be forcibly inhaled after a normal inspiration.",
+    "chapter": "Breathing and Exchange of Gases",
+    "chapterNumber": 17,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is expiratory reserve volume?",
+    "answer": "It is the additional air that can be forcibly exhaled after a normal expiration.",
+    "chapter": "Breathing and Exchange of Gases",
+    "chapterNumber": 17,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "What is the Bohr effect?",
+    "answer": "An increase in CO2 or H+ reduces haemoglobin's affinity for oxygen and promotes oxygen unloading in tissues.",
+    "chapter": "Breathing and Exchange of Gases",
+    "chapterNumber": 17,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What is the chloride shift?",
+    "answer": "It is exchange of bicarbonate and chloride across the RBC membrane that helps transport CO2 in blood while maintaining electrical neutrality.",
+    "chapter": "Breathing and Exchange of Gases",
+    "chapterNumber": 17,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "Why does haemoglobin show a sigmoid oxygen dissociation curve?",
+    "answer": "Binding of one oxygen molecule increases haemoglobin's affinity for additional oxygen molecules, producing cooperative binding.",
+    "chapter": "Breathing and Exchange of Gases",
+    "chapterNumber": 17,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "What is the role of surfactant in alveoli?",
+    "answer": "Surfactant reduces surface tension and helps prevent alveolar collapse, especially during expiration.",
+    "chapter": "Breathing and Exchange of Gases",
+    "chapterNumber": 17,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is the function of the diaphragm during inspiration?",
+    "answer": "It contracts and flattens, increasing thoracic cavity volume and lowering intrapulmonary pressure.",
+    "chapter": "Breathing and Exchange of Gases",
+    "chapterNumber": 17,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "What is the main stimulus for normal respiratory regulation?",
+    "answer": "Changes in CO2 and the resulting H+ concentration are major regulators of ventilation through central chemoreceptor pathways.",
+    "chapter": "Breathing and Exchange of Gases",
+    "chapterNumber": 17,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is the normal pH range of human blood?",
+    "answer": "Arterial blood pH is normally maintained around 7.35–7.45.",
+    "chapter": "Body Fluids and Circulation",
+    "chapterNumber": 18,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "What is the function of haemoglobin?",
+    "answer": "Haemoglobin in red blood cells transports most oxygen and also carries a portion of carbon dioxide.",
+    "chapter": "Body Fluids and Circulation",
+    "chapterNumber": 18,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What is the universal donor group for packed red blood cells?",
+    "answer": "O negative is the broadest universal red-cell donor type, though compatibility testing and clinical protocols are still required.",
+    "chapter": "Body Fluids and Circulation",
+    "chapterNumber": 18,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is the function of platelets?",
+    "answer": "Platelets adhere and aggregate at damaged vessels and support the coagulation process to limit blood loss.",
+    "chapter": "Body Fluids and Circulation",
+    "chapterNumber": 18,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "What is the role of valves in veins?",
+    "answer": "Venous valves prevent backflow and help return blood toward the heart, especially in limbs.",
+    "chapter": "Body Fluids and Circulation",
+    "chapterNumber": 18,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What is stroke volume?",
+    "answer": "Stroke volume is the volume of blood pumped by one ventricle in a single heartbeat.",
+    "chapter": "Body Fluids and Circulation",
+    "chapterNumber": 18,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What is the function of the semilunar valves?",
+    "answer": "The aortic and pulmonary semilunar valves prevent blood from flowing back into ventricles after ventricular contraction.",
+    "chapter": "Body Fluids and Circulation",
+    "chapterNumber": 18,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "What is the normal pacemaker of the human heart?",
+    "answer": "The sinoatrial node is the normal pacemaker because it generates impulses at the highest intrinsic rate.",
+    "chapter": "Body Fluids and Circulation",
+    "chapterNumber": 18,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is the role of the coronary circulation?",
+    "answer": "It supplies oxygen and nutrients to the heart muscle and removes metabolic wastes.",
+    "chapter": "Body Fluids and Circulation",
+    "chapterNumber": 18,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "What is hypertension?",
+    "answer": "Hypertension is persistently elevated arterial blood pressure; diagnosis depends on repeated measurements and clinical guidelines.",
+    "chapter": "Body Fluids and Circulation",
+    "chapterNumber": 18,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is ultrafiltration?",
+    "answer": "Ultrafiltration is pressure-driven filtration of blood plasma from glomerular capillaries into Bowman's capsule.",
+    "chapter": "Excretory Products and their Elimination",
+    "chapterNumber": 19,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "What is the function of the proximal convoluted tubule?",
+    "answer": "It reabsorbs most filtered water and salts and nearly all glucose and amino acids under normal conditions.",
+    "chapter": "Excretory Products and their Elimination",
+    "chapterNumber": 19,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What is the role of ADH in the kidney?",
+    "answer": "ADH increases water permeability of the distal nephron and collecting ducts, increasing water reabsorption and concentrating urine.",
+    "chapter": "Excretory Products and their Elimination",
+    "chapterNumber": 19,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is counter-current multiplication?",
+    "answer": "It is the process in the loop of Henle that establishes the osmotic gradient in the renal medulla.",
+    "chapter": "Excretory Products and their Elimination",
+    "chapterNumber": 19,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "What is the role of aldosterone?",
+    "answer": "Aldosterone increases sodium reabsorption and potassium secretion in parts of the distal nephron.",
+    "chapter": "Excretory Products and their Elimination",
+    "chapterNumber": 19,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What is renal threshold for glucose?",
+    "answer": "It is the plasma glucose level above which glucose begins to appear in urine because reabsorptive capacity is exceeded; the value varies.",
+    "chapter": "Excretory Products and their Elimination",
+    "chapterNumber": 19,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What is haemodialysis?",
+    "answer": "Haemodialysis is removal of wastes and excess solutes from blood across a semipermeable membrane using dialysis fluid.",
+    "chapter": "Excretory Products and their Elimination",
+    "chapterNumber": 19,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "Why is urea less toxic than ammonia?",
+    "answer": "Urea is less toxic and can be transported and excreted with less water than ammonia.",
+    "chapter": "Excretory Products and their Elimination",
+    "chapterNumber": 19,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is the function of the ureter?",
+    "answer": "Each ureter transports urine from a kidney to the urinary bladder by peristaltic contractions.",
+    "chapter": "Excretory Products and their Elimination",
+    "chapterNumber": 19,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "What is the function of the urinary bladder?",
+    "answer": "It temporarily stores urine before it is expelled through the urethra.",
+    "chapter": "Excretory Products and their Elimination",
+    "chapterNumber": 19,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is a joint?",
+    "answer": "A joint is the site where two or more bones or cartilages meet.",
+    "chapter": "Locomotion and Movement",
+    "chapterNumber": 20,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "What is a hinge joint?",
+    "answer": "A hinge joint permits movement mainly in one plane, as at the elbow or between finger phalanges.",
+    "chapter": "Locomotion and Movement",
+    "chapterNumber": 20,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What is a ball-and-socket joint?",
+    "answer": "It allows movement in multiple axes; examples include the shoulder and hip joints.",
+    "chapter": "Locomotion and Movement",
+    "chapterNumber": 20,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is the role of calcium ions in muscle contraction?",
+    "answer": "Calcium binds to troponin, shifting tropomyosin and exposing myosin-binding sites on actin.",
+    "chapter": "Locomotion and Movement",
+    "chapterNumber": 20,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "Why is ATP required for muscle relaxation?",
+    "answer": "ATP binding allows myosin to detach from actin, and ATP-powered pumps return calcium to the sarcoplasmic reticulum.",
+    "chapter": "Locomotion and Movement",
+    "chapterNumber": 20,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What is rigor mortis?",
+    "answer": "It is post-mortem stiffening of muscles due to ATP depletion, which prevents normal detachment of myosin from actin.",
+    "chapter": "Locomotion and Movement",
+    "chapterNumber": 20,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What is the function of myoglobin?",
+    "answer": "Myoglobin stores and facilitates oxygen availability within muscle cells.",
+    "chapter": "Locomotion and Movement",
+    "chapterNumber": 20,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "What is osteoporosis?",
+    "answer": "Osteoporosis is reduced bone mass and deterioration of bone microarchitecture, increasing fracture risk.",
+    "chapter": "Locomotion and Movement",
+    "chapterNumber": 20,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is the axial skeleton?",
+    "answer": "It includes the skull, vertebral column, ribs and sternum.",
+    "chapter": "Locomotion and Movement",
+    "chapterNumber": 20,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "What is the appendicular skeleton?",
+    "answer": "It includes the limb bones and the pectoral and pelvic girdles.",
+    "chapter": "Locomotion and Movement",
+    "chapterNumber": 20,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is the resting membrane potential of a neuron?",
+    "answer": "It is the electrical potential difference across the resting neuronal membrane, typically about −70 mV in many neurons.",
+    "chapter": "Neural Control and Coordination",
+    "chapterNumber": 21,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "What is the role of the myelin sheath?",
+    "answer": "It electrically insulates the axon and increases conduction speed by enabling saltatory conduction.",
+    "chapter": "Neural Control and Coordination",
+    "chapterNumber": 21,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What are nodes of Ranvier?",
+    "answer": "They are gaps between adjacent myelin segments where voltage-gated ion channels are concentrated.",
+    "chapter": "Neural Control and Coordination",
+    "chapterNumber": 21,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is a reflex arc?",
+    "answer": "It is the neural pathway mediating a reflex, commonly involving receptor, sensory neuron, CNS integration, motor neuron and effector.",
+    "chapter": "Neural Control and Coordination",
+    "chapterNumber": 21,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "What is the function of the cerebellum?",
+    "answer": "It coordinates voluntary movements and helps maintain posture, balance and muscle tone.",
+    "chapter": "Neural Control and Coordination",
+    "chapterNumber": 21,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What is the role of the hypothalamus?",
+    "answer": "It regulates homeostasis, including body temperature, hunger, thirst, autonomic functions and endocrine control through the pituitary.",
+    "chapter": "Neural Control and Coordination",
+    "chapterNumber": 21,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What is the blind spot of the eye?",
+    "answer": "It is the optic disc where the optic nerve exits the retina; it has no rods or cones.",
+    "chapter": "Neural Control and Coordination",
+    "chapterNumber": 21,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "What is the function of the cochlea?",
+    "answer": "The cochlea contains the sensory structures for hearing and converts sound-related mechanical vibrations into nerve signals.",
+    "chapter": "Neural Control and Coordination",
+    "chapterNumber": 21,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is a chemical synapse?",
+    "answer": "It is a junction where a presynaptic neuron releases neurotransmitter into a synaptic cleft to affect a postsynaptic cell.",
+    "chapter": "Neural Control and Coordination",
+    "chapterNumber": 21,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "What is the function of rods in the retina?",
+    "answer": "Rods are highly sensitive to dim light and support monochromatic, low-light vision.",
+    "chapter": "Neural Control and Coordination",
+    "chapterNumber": 21,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 1,
+    "text": "What is negative feedback in endocrine regulation?",
+    "answer": "It is a control mechanism in which the response reduces the original stimulus, helping maintain hormone levels within a range.",
+    "chapter": "Chemical Coordination and Integration",
+    "chapterNumber": 22,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 2,
+    "text": "Which hormone lowers blood calcium level?",
+    "answer": "Calcitonin from thyroid C cells can lower blood calcium, although parathyroid hormone and vitamin D are major regulators.",
+    "chapter": "Chemical Coordination and Integration",
+    "chapterNumber": 22,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 3,
+    "text": "What is the role of insulin?",
+    "answer": "Insulin lowers blood glucose by promoting cellular glucose uptake in responsive tissues and storage as glycogen and fat.",
+    "chapter": "Chemical Coordination and Integration",
+    "chapterNumber": 22,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 4,
+    "text": "What is the role of glucagon?",
+    "answer": "Glucagon raises blood glucose mainly by stimulating hepatic glycogen breakdown and gluconeogenesis.",
+    "chapter": "Chemical Coordination and Integration",
+    "chapterNumber": 22,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 5,
+    "text": "What is the function of thyroxine?",
+    "answer": "Thyroxine (T4) contributes to regulation of basal metabolic rate, growth and development.",
+    "chapter": "Chemical Coordination and Integration",
+    "chapterNumber": 22,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 6,
+    "text": "What is the role of adrenaline?",
+    "answer": "Adrenaline prepares the body for rapid action by increasing heart rate, cardiac output and availability of energy substrates.",
+    "chapter": "Chemical Coordination and Integration",
+    "chapterNumber": 22,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 7,
+    "text": "What is the function of oxytocin?",
+    "answer": "Oxytocin stimulates uterine contractions during childbirth and milk ejection during lactation.",
+    "chapter": "Chemical Coordination and Integration",
+    "chapterNumber": 22,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 8,
+    "text": "What is the role of prolactin?",
+    "answer": "Prolactin promotes milk production in mammary glands after childbirth.",
+    "chapter": "Chemical Coordination and Integration",
+    "chapterNumber": 22,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 9,
+    "text": "What is the function of melatonin?",
+    "answer": "Melatonin from the pineal gland helps regulate circadian rhythms and sleep-wake timing.",
+    "chapter": "Chemical Coordination and Integration",
+    "chapterNumber": 22,
+    "source": "JEE Prep Hub practice"
+  },
+  {
+    "number": 10,
+    "text": "What is endocrine feedback between hypothalamus and pituitary?",
+    "answer": "Hypothalamic releasing or inhibiting hormones regulate pituitary secretion; target-gland hormones commonly feed back to both levels.",
+    "chapter": "Chemical Coordination and Integration",
+    "chapterNumber": 22,
+    "source": "JEE Prep Hub practice"
+  }
+]

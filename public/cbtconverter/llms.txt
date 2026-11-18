@@ -1,0 +1,13 @@
+# JEE Prep — PDF to CBT Converter
+
+JEE Prep includes a browser-based PDF to computer-based-test workspace.
+
+## Features
+- Convert question-paper PDFs into an interactive exam experience.
+- Timer, question palette, marks and exam navigation.
+- Local/browser-based question workflow supplied by the integrated converter package.
+
+## App
+- https://jeeprep.in/cbtconverter
+
+The main JEE Prep Hub application owns the site header, navigation and global theme.

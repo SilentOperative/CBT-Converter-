@@ -1,0 +1,556 @@
+{
+  "subject": "chemistry",
+  "source": "https://sciencelesson.in/NEET-Mock-Test/chemistry/",
+  "scraped_at": "2026-10-21T17:27:27Z",
+  "chapters": [
+    {
+      "slug": "full-chemistry",
+      "title": "Full Chemistry",
+      "url": "https://sciencelesson.in/NEET-Mock-Test/chemistry/",
+      "tests": [
+        {
+          "chapter": "Full Chemistry",
+          "test_number": 1,
+          "url": "https://sciencelesson.in/NEET-Mock-Test/chemistry/set-1"
+        },
+        {
+          "chapter": "Full Chemistry",
+          "test_number": 2,
+          "url": "https://sciencelesson.in/NEET-Mock-Test/chemistry/set-2"
+        },
+        {
+          "chapter": "Full Chemistry",
+          "test_number": 3,
+          "url": "https://sciencelesson.in/NEET-Mock-Test/chemistry/set-3"
+        },
+        {
+          "chapter": "Full Chemistry",
+          "test_number": 4,
+          "url": "https://sciencelesson.in/NEET-Mock-Test/chemistry/set-4"
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "chapter": "Full Chemistry",
+      "test_number": 1,
+      "url": "https://sciencelesson.in/NEET-Mock-Test/chemistry/set-1",
+      "title": "Chemistry",
+      "questions": [
+        {
+          "order_no": 0,
+          "question_text": "The order of filling of electrons in the orbitals of an atom will be",
+          "options": [
+            "4s, 3d, 4p, 5s, 4d",
+            "3d, 4s, 4p, 4d, 5s",
+            "3d, 4p, 4s, 4d, 5s",
+            "5s, 4p, 3d, 4d, 5s"
+          ],
+          "correct_index": 0,
+          "explanation": ""
+        },
+        {
+          "order_no": 1,
+          "question_text": "The cell membranes are mainly composed of",
+          "options": [
+            "",
+            "fats",
+            "phospholipids",
+            "carbohydrates"
+          ],
+          "correct_index": 2,
+          "explanation": ""
+        },
+        {
+          "order_no": 2,
+          "question_text": "When vapours of a secondary alcohol is passed over heated copper at 573 K, the product formed is NEET 2019 (Odisha)",
+          "options": [
+            "an alkene",
+            "a ketone",
+            "an aldehyde",
+            "a carboxylic acid"
+          ],
+          "correct_index": 1,
+          "explanation": ""
+        },
+        {
+          "order_no": 3,
+          "question_text": "If the atomic number of an element is 33, it will be placed in the periodic table in the",
+          "options": [
+            "seventh group",
+            "fifth group",
+            "third group",
+            "first group"
+          ],
+          "correct_index": 1,
+          "explanation": ""
+        },
+        {
+          "order_no": 4,
+          "question_text": "Which of the following is dependent on temperature? NEET 2017",
+          "options": [
+            "Weight percentage",
+            "Molality",
+            "Molarity",
+            "Mole fraction"
+          ],
+          "correct_index": 2,
+          "explanation": ""
+        },
+        {
+          "order_no": 5,
+          "question_text": "On doping Ge metal with a little of In or Ga, one gets",
+          "options": [
+            "n-type semiconductor",
+            "p-type semiconductor",
+            "rectifier",
+            "insulator"
+          ],
+          "correct_index": 1,
+          "explanation": ""
+        },
+        {
+          "order_no": 6,
+          "question_text": "Which of the following alkane cannot be made in good yield by Wurtz reaction? NEET 2020",
+          "options": [
+            "n-Butane",
+            "n-Heptane",
+            "2, 3-Dimethylbutane",
+            "n-Hexane"
+          ],
+          "correct_index": 1,
+          "explanation": ""
+        },
+        {
+          "order_no": 7,
+          "question_text": "A strong base can abstract an a-hydrogen from",
+          "options": [
+            "alkane",
+            "ketone",
+            "alkene",
+            "amine"
+          ],
+          "correct_index": 1,
+          "explanation": ""
+        },
+        {
+          "order_no": 8,
+          "question_text": "Three moles of an ideal gas expanded spontaneously into vacuum. The work done will be",
+          "options": [
+            "zero",
+            "3 Joules",
+            "9 Joules",
+            "infinite"
+          ],
+          "correct_index": 0,
+          "explanation": ""
+        },
+        {
+          "order_no": 9,
+          "question_text": "Geometrical isomers differ in",
+          "options": [
+            "length of carbon chain",
+            "position of functional group",
+            "position of atoms",
+            "spatial arrangement of atoms"
+          ],
+          "correct_index": 3,
+          "explanation": ""
+        }
+      ],
+      "warnings": [],
+      "error": null
+    },
+    {
+      "chapter": "Full Chemistry",
+      "test_number": 2,
+      "url": "https://sciencelesson.in/NEET-Mock-Test/chemistry/set-2",
+      "title": "Chemistry",
+      "questions": [
+        {
+          "order_no": 0,
+          "question_text": "The number of spherical nodes in 3p orbitals are/is",
+          "options": [
+            "none",
+            "one",
+            "two",
+            "three"
+          ],
+          "correct_index": 1,
+          "explanation": ""
+        },
+        {
+          "order_no": 1,
+          "question_text": "Which of the following oxides is most acidic in nature? NEET 2018",
+          "options": [
+            "MgO",
+            "BaO",
+            "BeO",
+            "CaO"
+          ],
+          "correct_index": 2,
+          "explanation": ""
+        },
+        {
+          "order_no": 2,
+          "question_text": "On heating glycerol with conc. H2SO4, a compound is obtained which has bad odour. The compound is ___________.",
+          "options": [
+            "formic acid",
+            "allyl alcohol",
+            "glycerol sulphate",
+            "acrolein"
+          ],
+          "correct_index": 3,
+          "explanation": ""
+        },
+        {
+          "order_no": 3,
+          "question_text": "The concentration unit, independent of temperature, would be",
+          "options": [
+            "molarity",
+            "molality",
+            "weight volume percent",
+            "normality"
+          ],
+          "correct_index": 1,
+          "explanation": ""
+        },
+        {
+          "order_no": 4,
+          "question_text": "An acyl halide is formed when PCl5 reacts with an",
+          "options": [
+            "acid",
+            "amide",
+            "ester",
+            "alcohol"
+          ],
+          "correct_index": 0,
+          "explanation": ""
+        },
+        {
+          "order_no": 5,
+          "question_text": "In an endothermic reaction, the value of DH is",
+          "options": [
+            "negative",
+            "zero",
+            "positive",
+            "constant"
+          ],
+          "correct_index": 2,
+          "explanation": ""
+        },
+        {
+          "order_no": 6,
+          "question_text": "Copper crystallises in a face-centred cubic lattice with a unit cell length of 361 pm. What is the radius of copper atom in pm?",
+          "options": [
+            "181",
+            "157",
+            "128",
+            "108"
+          ],
+          "correct_index": 2,
+          "explanation": ""
+        },
+        {
+          "order_no": 7,
+          "question_text": "Reaction between acetone and methyl magnesium chloride followed by hydrolysis will give NEET 2020",
+          "options": [
+            "iso-propyl alcohol",
+            "tert-butyl alcohol",
+            "iso-butyl alcohol",
+            "sec-butyl alcohol"
+          ],
+          "correct_index": 1,
+          "explanation": ""
+        },
+        {
+          "order_no": 8,
+          "question_text": "The hormone that helps in the conversion of glucose to glycogen is",
+          "options": [
+            "insulin",
+            "adrenaline",
+            "bile acids",
+            "cortisone"
+          ],
+          "correct_index": 0,
+          "explanation": ""
+        },
+        {
+          "order_no": 9,
+          "question_text": "Which of the following can be used as the halide component for Friedel–Crafts reaction? NEET 2016",
+          "options": [
+            "Chlorobenzene",
+            "Chloroethene",
+            "Bromobenzene",
+            "Isopropyl chloride"
+          ],
+          "correct_index": 3,
+          "explanation": ""
+        }
+      ],
+      "warnings": [],
+      "error": null
+    },
+    {
+      "chapter": "Full Chemistry",
+      "test_number": 3,
+      "url": "https://sciencelesson.in/NEET-Mock-Test/chemistry/set-3",
+      "title": "ChapterName",
+      "questions": [
+        {
+          "order_no": 0,
+          "question_text": "2.5 litre of 1 M NaOH solution is mixed with another 3 litre of 0.5 M NaOH solution. Then find out molarity of resultant solution.",
+          "options": [
+            "0.73 M",
+            "0.50 M",
+            "0.80 M",
+            "1.0 M"
+          ],
+          "correct_index": 0,
+          "explanation": ""
+        },
+        {
+          "order_no": 1,
+          "question_text": "Which of the following atoms will have the smallest size?",
+          "options": [
+            "Mg",
+            "Na",
+            "Li",
+            "Be"
+          ],
+          "correct_index": 3,
+          "explanation": ""
+        },
+        {
+          "order_no": 2,
+          "question_text": "What will be the longest wavelength line in Balmer series of spectrum?",
+          "options": [
+            "566 nm",
+            "556 nm",
+            "656 nm",
+            "546 nm"
+          ],
+          "correct_index": 2,
+          "explanation": ""
+        },
+        {
+          "order_no": 3,
+          "question_text": "The heating of phenyl methyl ether with HI produces NEET 2017",
+          "options": [
+            "phenol",
+            "benzene",
+            "ethyl chloride",
+            "iodobenzene"
+          ],
+          "correct_index": 0,
+          "explanation": ""
+        },
+        {
+          "order_no": 4,
+          "question_text": "Ethyl chloride is converted into diethyl ether by",
+          "options": [
+            "Wurtz synthesis",
+            "Williamson’s synthesis",
+            "Grignard reaction",
+            "Perkins reaction"
+          ],
+          "correct_index": 1,
+          "explanation": ""
+        },
+        {
+          "order_no": 5,
+          "question_text": "Which one given below is a non-reducing sugar? NEET 2016",
+          "options": [
+            "Glucose",
+            "Maltose",
+            "Sucrose",
+            "Lactose"
+          ],
+          "correct_index": 2,
+          "explanation": ""
+        },
+        {
+          "order_no": 6,
+          "question_text": "Which of the following is an amine hormone?",
+          "options": [
+            "Oxypurin",
+            "Thyroxine",
+            "Insulin",
+            "Progesterone"
+          ],
+          "correct_index": 1,
+          "explanation": ""
+        },
+        {
+          "order_no": 7,
+          "question_text": "The RBC deficiency is deficiency disease of",
+          "options": [
+            "Vitamin B 1",
+            "Vitamin B 6",
+            "Vitamin B 2",
+            "Vitamin B 12"
+          ],
+          "correct_index": 3,
+          "explanation": ""
+        },
+        {
+          "order_no": 8,
+          "question_text": "In calcium fluoride, having the fluorite structure, the coordination numbers for calcium ion (Ca 2+ ) and fluoride ion (F - ) are NEET 2016",
+          "options": [
+            "8 and 4",
+            "4 and 2",
+            "4 and 8",
+            "6 and 6"
+          ],
+          "correct_index": 0,
+          "explanation": ""
+        },
+        {
+          "order_no": 9,
+          "question_text": "Which one of these is not compatible with arenes?",
+          "options": [
+            "Greater stability",
+            "Electrophilic additions",
+            "Delocalisation of π-electrons",
+            "Resonance"
+          ],
+          "correct_index": 1,
+          "explanation": ""
+        }
+      ],
+      "warnings": [],
+      "error": null
+    },
+    {
+      "chapter": "Full Chemistry",
+      "test_number": 4,
+      "url": "https://sciencelesson.in/NEET-Mock-Test/chemistry/set-4",
+      "title": "ChapterName",
+      "questions": [
+        {
+          "order_no": 0,
+          "question_text": "Which of the following compounds will not undergo Friedel-Crafts reaction easily? NEET 2013",
+          "options": [
+            "Cumene",
+            "Xylene",
+            "Nitrobenzene",
+            "Toluene"
+          ],
+          "correct_index": 2,
+          "explanation": ""
+        },
+        {
+          "order_no": 1,
+          "question_text": "Which of the following series of transitions in the spectrum of hydrogen atom falls in visible region? NEET 2019",
+          "options": [
+            "Balmer series",
+            "Lyman series",
+            "Brackett series",
+            "Paschen series"
+          ],
+          "correct_index": 0,
+          "explanation": ""
+        },
+        {
+          "order_no": 2,
+          "question_text": "Elements of which of the following groups will form anions most readily?",
+          "options": [
+            "Alkali metals",
+            "Halogens",
+            "Nitrogen family",
+            "Oxygen family"
+          ],
+          "correct_index": 1,
+          "explanation": ""
+        },
+        {
+          "order_no": 3,
+          "question_text": "If molality of the dilute solution is doubled, the value of molal depression constant (Kf) will be NEET 2017",
+          "options": [
+            "unchanged",
+            "doubled",
+            "tripled",
+            "halved"
+          ],
+          "correct_index": 0,
+          "explanation": ""
+        },
+        {
+          "order_no": 4,
+          "question_text": "Which one is formed when sodium phenoxide is heated with ethyl iodide?",
+          "options": [
+            "Ethyl phenyl alcohol",
+            "Phenol",
+            "Phenetole",
+            "None of these"
+          ],
+          "correct_index": 2,
+          "explanation": ""
+        },
+        {
+          "order_no": 5,
+          "question_text": "Which of the following is a basic amino acid? NEET 2020",
+          "options": [
+            "Lysine",
+            "Tyrosine",
+            "Serine",
+            "Alanine"
+          ],
+          "correct_index": 0,
+          "explanation": ""
+        },
+        {
+          "order_no": 6,
+          "question_text": "In crystals of which one of the following ionic compounds would you expect maximum distance between centres of cations and anions?",
+          "options": [
+            "CsF",
+            "LiF",
+            "LiI",
+            "CsI"
+          ],
+          "correct_index": 3,
+          "explanation": ""
+        },
+        {
+          "order_no": 7,
+          "question_text": "The compound formed when malonic acid is heated with urea is",
+          "options": [
+            "crotonic acid",
+            "barbituric acid",
+            "butyric acid",
+            "cinnamic acid"
+          ],
+          "correct_index": 1,
+          "explanation": ""
+        },
+        {
+          "order_no": 8,
+          "question_text": "Among the following compounds the one that is most reactive towards electrophilic nitration is",
+          "options": [
+            "toluene",
+            "nitrobenzene",
+            "benzene",
+            "benzoic acid"
+          ],
+          "correct_index": 0,
+          "explanation": ""
+        },
+        {
+          "order_no": 9,
+          "question_text": "During isothermal expansion of an ideal gas, its",
+          "options": [
+            "enthalpy reduces to zero",
+            "enthalpy decreases",
+            "internal energy increases",
+            "enthalpy remains unaffected"
+          ],
+          "correct_index": 3,
+          "explanation": ""
+        }
+      ],
+      "warnings": [],
+      "error": null
+    }
+  ]
+}

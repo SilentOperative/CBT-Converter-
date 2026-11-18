@@ -1,0 +1,15 @@
+{
+  "purpose": "Local question-bank inventory copied into CBT-Converter from authorized repository assets.",
+  "reference": "https://www.newtcbt.in/cbt/mains",
+  "remoteNewtCbtQuestionCount": null,
+  "note": "The reference site's private 300K+ backend question bank was not exported or copied. These are the locally available datasets and the CBT frontend bundle. Counts in the source manifests remain authoritative for nested test-series files.",
+  "datasets": [
+    {"id":"curated-jee-banks","path":"/data/question-banks/manifest.json","description":"Curated JEE question banks","questions":6095},
+    {"id":"jee-hub-papers","path":"/data/jee-hub/manifest.json","description":"JEE Main, JEE Advanced, BITSAT, NEET, COMEDK and MHT-CET papers","papers":15,"questionCount":1306},
+    {"id":"aspiron-pyq","path":"/data/aspiron-pyq/index.json","description":"Historical AIPMT question papers","papers":3},
+    {"id":"neet-sciencelesson","path":"/data/test-series/","description":"NEET Physics, Chemistry, and Biology test-series JSON exports","files":3},
+    {"id":"biology-extra-practice","path":"/data/ncert/biology-extra-practice.json","description":"Additional biology practice questions","questions":220},
+    {"id":"ncert-class11","path":"/data/ncert/ncert-class11-questions.json","description":"NCERT Class 11 question collection","chapters":22}
+  ],
+  "frontendBundle": {"path":"/cbtconverter/index.html","features":["PDF to CBT","custom CBT","test runner","review","results","local storage","KaTeX math rendering"]}
+}

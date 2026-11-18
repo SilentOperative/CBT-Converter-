@@ -1,20 +1,18 @@
 # CBT-Converter Frontend Recreation
 
-## Scope
-Recreate the public NewtCBT frontend from `https://www.newtcbt.in/` and extend it into a usable local-only CBT workspace. Database, authentication, cloud file storage, and live server behavior remain deferred.
+## Current scope
+The repository now contains the public NewtCBT-style shell, a functional local workspace, the full copied CBT Converter frontend bundle, and local question-bank assets. The `/cbt` and `/cbt/mains` routes open the full CBT experience from `public/cbtconverter/index.html`.
 
-## Implemented experience
-The project now includes the public landing page, About, Documentation, Privacy, and Terms routes, plus a dashboard, custom test builder, local PDF/image selection, generated CBT test interface, question palette and answer state, performance analytics, public test library, live-room simulation, local notebook, and settings. Demo preferences and notebook content use browser localStorage only.
+## Local data inventory
+- Curated question-bank manifest: 6,095 questions across Physics, Chemistry, and Mathematics.
+- JEE Hub paper manifest: 15 papers covering JEE Main, JEE Advanced, BITSAT, NEET, COMEDK, and MHT-CET.
+- Historical Aspiron PYQ manifest: additional local medical entrance datasets.
+- Full CBT frontend bundle: PDF-to-CBT extraction UI, custom CBT flow, test runner, review, results, local persistence, and KaTeX rendering.
+
+The reference site's private 300K+ backend question bank was not copied because no export or backend dump is present in the repository. `public/data/manifest.json` records this explicitly and is the import boundary for an authorized question-bank export later.
 
 ## Design
-The interface uses a dark developer-tool editorial movement with neon exam-lab accents. Near-black surfaces create contrast for lime/yellow actions. The layout uses asymmetric split content, bordered panels, monospace utility labels, and responsive mobile behavior. Space Grotesk handles content while DM Mono handles labels and metadata.
+The public shell follows the reference dark editorial visual language. The full CBT bundle follows the mobile layout supplied in the reference image, including exam tabs, question counts, custom CBT, full-syllabus mock, bottom navigation, and the internal CBT flow.
 
-## Project structure
-- `index.html`: static entrypoint and metadata.
-- `app.js`: route-aware frontend rendering, local state, demo workflows, and interactions.
-- `styles.css`: responsive public site and workspace visual system.
-- `public/assets/`: locally copied public reference imagery.
-- `public/manus-routes.json`: complete page route declaration.
-
-## Deferred backend work
-Authentication, question generation, PDF extraction, database schema, uploaded documents, analytics persistence, live-room synchronization, and cloud library records are isolated behind the current frontend flows so they can be connected later without replacing the UI.
+## Deferred integration
+Authentication, cloud synchronization, backend question selection, live-room synchronization, and database persistence can be connected later without replacing the local CBT bundle or its data paths.
