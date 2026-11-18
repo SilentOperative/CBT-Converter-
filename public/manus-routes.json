@@ -1,0 +1,10 @@
+{
+  "routes": [
+    {"path":"/","title":"NewtCBT — PDF to CBT & Custom Mock Generator"},
+    {"path":"/info","title":"About NewtCBT"},
+    {"path":"/docs","title":"NewtCBT Documentation"},
+    {"path":"/privacy","title":"NewtCBT Privacy Policy"},
+    {"path":"/terms","title":"NewtCBT Terms of Service"},
+    {"path":"/cbt","title":"NewtCBT Custom Mock Builder"}
+  ]
+}
